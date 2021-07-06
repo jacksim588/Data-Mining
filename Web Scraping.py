@@ -12,10 +12,9 @@ import pandas as pd
 import re
 import numpy as np
 
-CompanyNames = ['NEXT','greene king']
+CompanyNames = ['NEXT','greene king','asda','santander','HSBC','Unilever','aviva']
 link = ('https://www.google.com/')
 criteria = 'co2e'
-
 '''
 Runs for each name in the company names list
 Creates a new browser object each time so the download location can be changed
@@ -23,7 +22,7 @@ this allows each company pdfs to be downloaded in the same folder.
 '''
 for name in CompanyNames:
     #create folder for PDFs to go in
-    filepath = r'F:\Downloads'+'\\'+name
+    filepath = r'F:\Webscraping\Downloads'+'\\'+name
     try:
         os.mkdir(filepath)
     except FileExistsError:
