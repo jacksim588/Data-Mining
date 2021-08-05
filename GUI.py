@@ -9,7 +9,16 @@ import WebScraping
 import csv
 import os
 
+'''
+NOTES FOR IMROVEMENT
 
+-This site cant be reached errors:
+SAFEWAY STORES LIMITED
+
+-It looks like there aren't many great matches for your search:
+SAFEWAY STORES LIMITED
+
+'''
 #Roboto
 
 master = Tk()
@@ -61,7 +70,7 @@ def onPress():
     namePath = e_companyNameDir.get()
     namePath.encode('unicode_escape')
     print(namePath)
-    with open(namePath,'r') as csv_file:
+    with open(namePath,'r', encoding='utf-8-sig') as csv_file:
         copmanies = csv_file.read().splitlines() 
     print(copmanies)
     WebScraping.WebScraper(
