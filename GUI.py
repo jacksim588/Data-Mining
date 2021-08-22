@@ -18,6 +18,11 @@ SAFEWAY STORES LIMITED
 -It looks like there aren't many great matches for your search:
 SAFEWAY STORES LIMITED
 
+-Network Errors:
+APPLE EUROPE LIMITED
+
+-Could Add an Output File with failed companies
+
 '''
 #Roboto
 

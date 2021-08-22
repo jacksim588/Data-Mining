@@ -62,41 +62,46 @@ def WebScraper(companyNames,Criteria,downloadPath):
         search.send_keys(Keys.RETURN) # hit return after you enter search text
         time.sleep(5) # sleep for 5 seconds so you can see the results
 
+
+
         #Take html of cite and find all links
         soup = bs(browser.page_source, features="html.parser")
+
+        noMatchClassTags = soup.find_all("div", {"class": "v3jTId"})
+        print(noMatchClassTags)
+
         elems = browser.find_elements_by_xpath("//a[@href]")
         #for each link, if it ends in pdf, download it
+        if not noMatchClassTags:
+            window_before = browser.window_handles[0] 
 
-        window_before = browser.window_handles[0] 
+            for elem in elems:
+                try:
+                    if elem.get_attribute("href").endswith(('.pdf')):#If element is  pdf link
+                        pdflink = elem.get_attribute("href")#get link
+                        browser.execute_script("window.open('{}');".format(''))#open blank tab
+                        window_after = browser.window_handles[1]
+                        browser.switch_to.window(window_after)#swap to new tab
+                        browser.get(pdflink)#search pdf link (if its a pdf it will autodownload)
+                        browser.close()#close tab
+                        browser.switch_to.window(window_before)#swap back to original tab
+                except selenium.common.exceptions.StaleElementReferenceException:
+                    print('StaleElementReferenceException')
 
-        for elem in elems:
-            try:
-                if elem.get_attribute("href").endswith(('.pdf')):#If element is  pdf link
-                    pdflink = elem.get_attribute("href")#get link
-                    browser.execute_script("window.open('{}');".format(''))#open blank tab
-                    window_after = browser.window_handles[1]
-                    browser.switch_to.window(window_after)#swap to new tab
-                    browser.get(pdflink)#search pdf link (if its a pdf it will autodownload)
-                    browser.close()#close tab
-                    browser.switch_to.window(window_before)#swap back to original tab
-            except selenium.common.exceptions.StaleElementReferenceException:
-                print('StaleElementReferenceException')
-
-        #Wait to make sure each pdf is downloaded before continuing
-        wait = True
-        while wait == True:
-            time.sleep(random.uniform(5, 7.9))
-            wait = False
-            for fname in os.listdir(filepath):
-                if fname.endswith('.crdownload'):
-                    wait = True   
-        time.sleep(random.uniform(3, 4.9))
+            #Wait to make sure each pdf is downloaded before continuing
+            wait = True
+            while wait == True:
+                time.sleep(random.uniform(5, 7.9))
+                wait = False
+                for fname in os.listdir(filepath):
+                    if fname.endswith('.crdownload'):
+                        wait = True   
+            time.sleep(random.uniform(3, 4.9))
         browser.quit()
 
 
-'''
-CompanyNames = ['asda','NEXT','greene king','santander','HSBC','Unilever','aviva','Tesco','airbus','vauxhall']
-criteria = 'co2e'
+CompanyNames = ['ABACO RECRUITMENT LIMITED','ASDA']
+criteria = 'scope 1 co2e'
 downloadPath = r'F:\Webscraping\Downloads'
 
 
@@ -107,4 +112,3 @@ endtime = time.time()
 print(endtime)
 print(endtime - starttime)
 time.sleep(5)
-'''

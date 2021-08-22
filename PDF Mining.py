@@ -2,7 +2,7 @@ import PyPDF2
 from PyPDF2 import PdfFileWriter, PdfFileReader
 import os
 
-CompanyNames = ['NEXT','greene king','asda','santander','HSBC','Unilever','aviva']
+CompanyNames = ['asda','NEXT','greene king','santander','HSBC','Unilever','aviva','Tesco','airbus','vauxhall']
 filepath_down = r'F:\Webscraping\Downloads'
 filepath_fil = r'F:\Webscraping\Filtered'
 for name in CompanyNames:
@@ -23,7 +23,7 @@ for name in CompanyNames:
         for i in range(infile.numPages):
             page = infile.getPage(i)
             text = page.extractText()
-            if any(ext in text for ext in ['GtCO2e']):
+            if any(ext in text for ext in ['CO2e']):
                 print(i)
                 pages_to_keep.append(i)
         for i in pages_to_keep:
