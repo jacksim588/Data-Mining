@@ -30,11 +30,7 @@ def WebScraper(companyNames,Criteria,downloadPath):
     for name in CompanyNames:
         #create folder for PDFs to go in
         filepath = downloadPath+'\\'+name
-        try:
-            os.mkdir(filepath)
-        except FileExistsError:
-            print('FOLDER ALREADY EXISTS: '+filepath)
-        print(filepath)
+        
         #Defining the webdriver. Set options so it can download PDFs
         options = webdriver.ChromeOptions()
         options.add_experimental_option('prefs', {
@@ -71,8 +67,15 @@ def WebScraper(companyNames,Criteria,downloadPath):
         print(noMatchClassTags)
 
         elems = browser.find_elements_by_xpath("//a[@href]")
-        #for each link, if it ends in pdf, download it
+        #if there is not 'no matches' message, carry on as normal
         if not noMatchClassTags:
+            #create folder for company
+            try:
+                os.mkdir(filepath)
+            except FileExistsError:
+                print('FOLDER ALREADY EXISTS: '+filepath)
+                print(filepath)
+            #for each link, if it ends in pdf, download it
             window_before = browser.window_handles[0] 
 
             for elem in elems:
@@ -97,14 +100,19 @@ def WebScraper(companyNames,Criteria,downloadPath):
                     if fname.endswith('.crdownload'):
                         wait = True   
             time.sleep(random.uniform(3, 4.9))
+            #print('moving on from ',name)
+        else:
+            file = open(downloadPath+'\\OutputReport.txt', 'a+')
+            file.write(name+'\n')
+            file.close()
         browser.quit()
 
 
-CompanyNames = ['ABACO RECRUITMENT LIMITED','ASDA']
+CompanyNames = ['ABACO RECRUITMENT LIMITED','ASDA','ABACO RECRUITMENT LIMITED']
 criteria = 'scope 1 co2e'
 downloadPath = r'F:\Webscraping\Downloads'
 
-
+'''
 starttime = time.time()
 print(starttime)
 WebScraper(CompanyNames,criteria,downloadPath)
@@ -112,3 +120,4 @@ endtime = time.time()
 print(endtime)
 print(endtime - starttime)
 time.sleep(5)
+'''
