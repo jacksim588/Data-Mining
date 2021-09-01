@@ -1,9 +1,11 @@
 from os import name
 import tkinter as tk
+import tkcalendar
 from tkinter import *
 from tkinter import messagebox
 from tkinter import filedialog
 from tkinter.font import Font
+from tkcalendar import DateEntry
 import tkinter.font as font
 import WebScraping
 import csv
@@ -46,6 +48,8 @@ Label(master, text='',bg='#fcfaea',fg='#262626',font=myFont).grid(row=1,column=4
 Label(master, text='Criteria Text',bg='#fcfaea',fg='#262626',font=myFont).grid(row=2)
 Label(master, text='',bg='#fcfaea',fg='#262626',font=myFont).grid(row=3)
 Label(master, text='Download Folder',bg='#fcfaea',fg='#262626',font=myFont).grid(row=4)
+Label(master, text='Date',bg='#fcfaea',fg='#262626',font=myFont).grid(row=5)
+cal = DateEntry(master, width=12, background='#262626', foreground='#fcfaea', borderwidth=2).grid(row=5,column=1)
 
 
 folder_path = StringVar()
@@ -72,17 +76,19 @@ def browse_button_DownloadDir():
 
 def onPress():
     print('Button Pressed')
+    print(cal.get_date())
     namePath = e_companyNameDir.get()
     namePath.encode('unicode_escape')
     print(namePath)
     with open(namePath,'r', encoding='utf-8-sig') as csv_file:
         copmanies = csv_file.read().splitlines() 
     print(copmanies)
+    '''
     WebScraping.WebScraper(
         copmanies,
         e_criteria.get(),
         e_DownloadDir.get()
-    )
+    )'''
 
 
 e_companyNameDir = Entry(master,font=myFont)
@@ -95,7 +101,7 @@ e_DownloadDir.grid(row=4, column=1)
 browseButtonNames = tk.Button(master, text='Select File', command=browse_button_companyNameDir,bg='#faf4ef',fg='#262626',font=myFont)
 browseButtonDownload = tk.Button(master, text='Select Folder', command=browse_button_DownloadDir,bg='#faf4ef',fg='#262626',font=myFont)
 submitButton = tk.Button(master, text='Start Bot', command=onPress,bg='#faf4ef',fg='#262626',font=myFont)
-submitButton.grid(row=5, column=1)
+submitButton.grid(row=6, column=1)
 browseButtonNames.grid(row=0,column=3)
 browseButtonDownload.grid(row=4, column=3)
 mainloop()
