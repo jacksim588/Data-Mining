@@ -22,7 +22,7 @@ Creates a new browser object each time so the download location can be changed
 this allows each company pdfs to be downloaded in the same folder.
 '''
 
-def WebScraper(companyNames,Criteria,downloadPath):
+def WebScraper(companyNames,Criteria,downloadPath,Adate):
     CompanyNames = companyNames
     criteria = Criteria
     downloadPath = downloadPath
@@ -54,7 +54,7 @@ def WebScraper(companyNames,Criteria,downloadPath):
 
         #Search for given Criteria
         search = browser.find_element_by_name('q')
-        search.send_keys(name+" "+criteria+" filetype:pdf")
+        search.send_keys(name+" "+criteria+" after:"+Adate+" filetype:pdf")
         search.send_keys(Keys.RETURN) # hit return after you enter search text
         time.sleep(5) # sleep for 5 seconds so you can see the results
 
