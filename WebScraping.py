@@ -27,6 +27,9 @@ def WebScraper(companyNames,Criteria,downloadPath,Adate):
     criteria = Criteria
     downloadPath = downloadPath
     link = ('https://www.google.com/')
+    file = open(downloadPath+'\\OutputReport.txt', 'a+')
+    file.write(criteria+" after:"+Adate.strftime('%Y-%m-%d')+" filetype:pdf"+'\n')
+    file.close()
     for name in CompanyNames:
         #create folder for PDFs to go in
         filepath = downloadPath+'\\'+name
@@ -54,8 +57,9 @@ def WebScraper(companyNames,Criteria,downloadPath,Adate):
 
         #Search for given Criteria
         search = browser.find_element_by_name('q')
-        search.send_keys(name+" "+criteria+" after:"+Adate+" filetype:pdf")
+        search.send_keys(name+" "+criteria+" after:"+Adate.strftime('%Y-%m-%d')+" filetype:pdf")
         search.send_keys(Keys.RETURN) # hit return after you enter search text
+
         time.sleep(5) # sleep for 5 seconds so you can see the results
 
 
@@ -88,12 +92,13 @@ def WebScraper(companyNames,Criteria,downloadPath,Adate):
                         browser.get(pdflink)#search pdf link (if its a pdf it will autodownload)
                         browser.close()#close tab
                         browser.switch_to.window(window_before)#swap back to original tab
-                except selenium.common.exceptions.StaleElementReferenceException:
+                except (selenium.common.exceptions.StaleElementReferenceException,selenium.common.exceptions.WebDriverException):
                     print('StaleElementReferenceException')
 
             #Wait to make sure each pdf is downloaded before continuing
             wait = True
-            while wait == True:
+            downloadTime = time.time()
+            while wait and downloadTime<180:
                 time.sleep(random.uniform(5, 7.9))
                 wait = False
                 for fname in os.listdir(filepath):

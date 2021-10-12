@@ -1,0 +1,648 @@
+Action on drinks,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Carbon Nitrous,Total,Energy and renewable energy,Unnamed: 4,Unnamed: 5,2018,2019,2020
+"0     We’ll reduce the sugar in our soft drinks by 1...
+1     2015 and 2020, and that’s in addition to the 5...
+2                  achieved in the previous 5 years.(2)
+3                                                   NaN
+4                                                   NaN
+5     We’ll aim for 50% of our sales to come from lo...
+6                                            drinks.(3)
+7     We’ll continuously evolve our recipes and port...
+8                           a greater choice of drinks.
+9                                                   NaN
+10                                                  NaN
+11    We’ll make it easier for consumers to cut down...
+12    with straightforward product information and s...
+13                                          pack sizes.
+14                                  Action on packaging
+15    We’ll make sure that 100% of our packaging is ...
+16                                         or reusable.
+17    We’ll work with local and national partners to...
+18                  of our packaging in Western Europe.
+19                                                  NaN
+20                                                  NaN
+21    We’ll make sure that at least 50% of the mater...
+22    our PET bottles comes from recycled plastic (r...
+23                                    Action on society
+24    We’ll foster a diverse and inclusive culture i...
+25    and make sure that women hold at least 40% of our
+26                                management positions.
+27    We’ll expand the contribution we make to socie...
+28    increasing our employee volunteering and suppo...
+29                        local community partnerships.
+30                                                  NaN
+31                                      Action on water
+32    We’ll protect the sustainability of the water ...
+33                              for future generations.
+34    We’ll reduce the water we use in manufacturing...
+35       and address water impacts in our supply chain.
+36                                                  NaN
+37    We’ll replenish 100% of the water we use in ar...
+38                                        water stress.
+39                                 Action on climate(9)
+40    We’ll cut GHG emissions by 30% across our enti...
+41                          chain by 2030, versus 2019.
+42                                                  NaN
+43                                                  NaN
+44                                                  NaN
+45                                                  NaN
+46                                                  NaN
+47                                                  NaN
+48                                                  NaN
+49                                                  NaN
+Name: Action on drinks, dtype: object","0     Reduction in the average sugar per litre in ou...
+1                              portfolio since 2015 (%)
+2                                                   NaN
+3     Reduction in the average sugar per litre in ou...
+4                              portfolio since 2010 (%)
+5     Percentage of volume sold which is low or no c...
+6                                                   NaN
+7     Number of products which have had their recipe...
+8                   to reduce sugar since 2010 (number)
+9     Number of new low and no calorie products laun...
+10                                        2010 (number)
+11    Percentage of total sparkling soft drinks volu...
+12                  packs that are 250ml or less (%)(4)
+13                                                  NaN
+14                                                  NaN
+15    Percentage of all packaging that is recyclable...
+16                                                  NaN
+17    PET packaging collected for recycling as a per...
+18    total PET packaging put onto the market (%) Fo...
+19    Packaging collected for recycling as a percent...
+20                packaging put onto the market (%)(6 )
+21         Percentage of PET used that is rPET (%) 16.0
+22                                                  NaN
+23                                                  NaN
+24    Percentage of women in management positions (s...
+25                         manager level and above) (%)
+26                                                  NaN
+27    Total community investment contribution (milli...
+28                                                  NaN
+29                    Percentage of pre-tax profits (%)
+30           Total number of volunteering hours (hours)
+31                                                  NaN
+32     Sites with Water Management Plans and Source 100
+33               Vulnerability Assessments in place (%)
+34                              Water use ratio(7) 1.82
+35                                                  NaN
+36    Percentage reduction in water use ratio since ...
+37    Water replenished as a percentage of total wat...
+38    beverages where sourced from areas of water st...
+39                                                  NaN
+40           Scope 1 emissions (tonnes of CO2e) 304,162
+41                                                  NaN
+42    Scope 2 emissions - market based approach  280...
+43                                    (tonnes of CO 2e)
+44    Scope 2 emissions - location based approach  2...
+45                                     (tonnes of CO2e)
+46         Scope 3 emissions (tonnes of CO2e) 4,788,175
+47                                                  NaN
+48    Total GHG emissions Scope 1,  2 and 3 (full va...
+49                                     (tonnes of CO2e)
+Name: Unnamed: 0, dtype: object","0          11.1
+1           NaN
+2           NaN
+3          15.8
+4           NaN
+5          45.2
+6           NaN
+7           NaN
+8           NaN
+9           NaN
+10          NaN
+11          5.0
+12          NaN
+13          NaN
+14          NaN
+15         97.9
+16          NaN
+17          NaN
+18          NaN
+19           74
+20          NaN
+21         27.6
+22          NaN
+23          NaN
+24         35.2
+25          NaN
+26          NaN
+27            5
+28          NaN
+29         0.41
+30       11,955
+31          NaN
+32          100
+33          NaN
+34         1.61
+35          NaN
+36        11.25
+37          141
+38          NaN
+39          NaN
+40      238,900
+41          NaN
+42        6,025
+43          NaN
+44      174,472
+45          NaN
+46    3,512,547
+47          NaN
+48    3,757,473
+49          NaN
+Name: Unnamed: 1, dtype: object","0          12.9
+1           NaN
+2           NaN
+3          17.6
+4           NaN
+5          46.0
+6           NaN
+7           NaN
+8           NaN
+9           NaN
+10          NaN
+11          5.0
+12          NaN
+13          NaN
+14          NaN
+15         98.3
+16          NaN
+17          NaN
+18          NaN
+19           77
+20          NaN
+21         30.5
+22          NaN
+23          NaN
+24         35.5
+25          NaN
+26          NaN
+27          8.8
+28          NaN
+29         0.60
+30       25,839
+31          NaN
+32          100
+33          NaN
+34         1.60
+35          NaN
+36        11.74
+37          160
+38          NaN
+39          NaN
+40      229,713
+41          NaN
+42        6,051
+43          NaN
+44      170,245
+45          NaN
+46    3,561,980
+47          NaN
+48    3,797,744
+49          NaN
+Name: Unnamed: 2, dtype: object","0          15.3
+1           NaN
+2           NaN
+3          19.8
+4           NaN
+5          47.7
+6           NaN
+7           211
+8           NaN
+9           705
+10          NaN
+11          3.7
+12          NaN
+13          NaN
+14          NaN
+15         98.0
+16          NaN
+17          NaN
+18          NaN
+19           79
+20          NaN
+21         41.3
+22          NaN
+23          NaN
+24         35.6
+25          NaN
+26          NaN
+27          9.1
+28          NaN
+29         1.31
+30        9,061
+31          NaN
+32          100
+33          NaN
+34         1.57
+35          NaN
+36        13.72
+37          275
+38          NaN
+39          NaN
+40      196,919
+41          NaN
+42        4,815
+43          NaN
+44      144,011
+45          NaN
+46    3,144,035
+47          NaN
+48    3,345,769
+49          NaN
+Name: Unnamed: 3, dtype: object",,,,,,,,
+,"0                                                   NaN
+1                                                 Scope
+2     1. D irect emissions (e.g. fuel used in manufa...
+3     vehicle fleet, as well as process and fugitive...
+4     2a. Indirect emissions – market based approach(3)
+5                                    (e.g. electricity)
+6     2b. Indirect emissions – location based approa...
+7                                    (e.g. electricity)
+8     3. T hird party emissions, including those rel...
+9     ingredients, packaging, cold drink equipment, ...
+10    transportation and distribution, waste in our ...
+11                                  and business travel
+12    Total GHG emissions  Scope 1, 2 (4) and 3 (Ful...
+Name: Unnamed: 0, dtype: object","0     Methane
+1     (CH ) 4
+2         267
+3         NaN
+4          26
+5         NaN
+6         778
+7         NaN
+8       2,269
+9         NaN
+10        NaN
+11        NaN
+12      2,562
+Name: Unnamed: 1, dtype: object","0     Hydrofluoro
+1         carbons
+2           3,442
+3             NaN
+4               0
+5             NaN
+6               0
+7             NaN
+8               0
+9             NaN
+10            NaN
+11            NaN
+12          3,442
+Name: Unnamed: 2, dtype: object","0          % of
+1     footprint
+2           5.9
+3           NaN
+4           0.1
+5           NaN
+6           NaN
+7           NaN
+8          94.0
+9           NaN
+10          NaN
+11          NaN
+12          NaN
+Name: Unnamed: 3, dtype: object","0            dioxide oxide
+1     (CO ) CO2e)2 (N O) 2
+2              192,509 700
+3                      NaN
+4                 4,777 11
+5                      NaN
+6              142,897 336
+7                      NaN
+8         3,126,133 15,633
+9                      NaN
+10                     NaN
+11                     NaN
+12        3,323,420 16,345
+Name: Carbon Nitrous, dtype: object","0       (tonnes
+1           NaN
+2       196,919
+3           NaN
+4         4,815
+5           NaN
+6       144,011
+7           NaN
+8     3,144,035
+9           NaN
+10          NaN
+11          NaN
+12    3,345,769
+Name: Total, dtype: object",,,,,,
+,"0           NaN
+1          2018
+2         0.315
+3           NaN
+4           NaN
+5           NaN
+6            GJ
+7       904,919
+8        26,059
+9     1,556,593
+10      202,271
+11      107,994
+12            0
+13       37,950
+14       22,890
+15        4,572
+16        1,618
+17          384
+18          708
+19            0
+20    2,865,958
+21          NaN
+22          NaN
+23          NaN
+24           GJ
+25    2,282,404
+26       84,100
+27    2,366,504
+Name: Unnamed: 0, dtype: object","0    NaN
+1    NaN
+2    NaN
+3    NaN
+4    NaN
+5    NaN
+6    NaN
+7    NaN
+8    NaN
+9    NaN
+10   NaN
+11   NaN
+12   NaN
+13   NaN
+14   NaN
+15   NaN
+16   NaN
+17   NaN
+18   NaN
+19   NaN
+20   NaN
+21   NaN
+22   NaN
+23   NaN
+24   NaN
+25   NaN
+26   NaN
+27   NaN
+Name: Unnamed: 1, dtype: float64","0         NaN
+1        2019
+2       0.317
+3         NaN
+4         NaN
+5        2019
+6         MWh
+7     239,080
+8      13,534
+9     452,626
+10     52,802
+11     29,431
+12          1
+13      9,624
+14      6,577
+15        300
+16        427
+17        107
+18        170
+19          0
+20    804,679
+21        NaN
+22        NaN
+23       2019
+24        MWh
+25    621,778
+26     22,336
+27    644,114
+Name: Unnamed: 2, dtype: object","0           NaN
+1          2020
+2         0.309
+3           NaN
+4           NaN
+5           NaN
+6            GJ
+7       860,687
+8        48,722
+9     1,629,455
+10      190,085
+11      105,952
+12            4
+13       34,646
+14       23,678
+15        1,078
+16        1,537
+17          384
+18          612
+19            0
+20    2,896,840
+21          NaN
+22          NaN
+23          NaN
+24           GJ
+25    2,238,402
+26       80,409
+27    2,318,811
+Name: Unnamed: 3, dtype: object",,,"0                          Energy use ratio (GRI 302-3)
+1                                                  2010
+2     Energy consumed (MJ) per litre of product prod...
+3            CCEP energy sources and use (GRI 302-1)(6)
+4     Direct energy consumption by Primary Energy So...
+5                                                  2018
+6                                            Source MWh
+7                           Diesel (CCEP fleet) 251,366
+8                             Petrol (CCEP fleet) 7,239
+9                                   Natural gas 432,387
+10                               Propane and LPG 56,186
+11                    Light fuel oil/site diesel 29,998
+12                           Other (jet-fuel and CNG) 0
+13                                    Geothermal 10,542
+14                                Electricity CHP 6,358
+15                                      Biodiesel 1,270
+16                                Electricity solar 449
+17                               Ground source heat 107
+18                        Electricity water turbine 197
+19                                     Heavy fuel oil 0
+20              Total direct energy consumption 796,099
+21              CCEP energy sources and use (GRI 302-1)
+22    Direct energy consumption by Primary Energy So...
+23                                                 2018
+24                                           Source MWh
+25           Electricity purchased and consumed 634,001
+26             Heat and steam purchased and used 23,361
+27              Total direct energy consumption 657,362
+Name: Energy and renewable energy, dtype: object","0         NaN
+1         NaN
+2         NaN
+3         NaN
+4         NaN
+5        2020
+6         MWh
+7     189,130
+8      17,914
+9     400,351
+10     43,102
+11     28,522
+12          3
+13     11,264
+14     17,404
+15          0
+16        424
+17        700
+18        183
+19          0
+20    708,997
+21        NaN
+22        NaN
+23       2020
+24        MWh
+25    556,651
+26     19,279
+27    575,930
+Name: Unnamed: 4, dtype: object","0           NaN
+1           NaN
+2           NaN
+3           NaN
+4           NaN
+5           NaN
+6            GJ
+7       680,870
+8        64,491
+9     1,441,262
+10      155,168
+11      102,681
+12           12
+13       40,551
+14       62,655
+15            0
+16        1,526
+17        2,520
+18          658
+19            0
+20    2,552,394
+21          NaN
+22          NaN
+23          NaN
+24           GJ
+25    2,003,944
+26       69,404
+27    2,073,348
+Name: Unnamed: 5, dtype: object",,,
+,"0                                              Source
+1              Renewable purchased electricity (Grid)
+2                                                 NaN
+3               Renewable non-grid/onsite electricity
+4                        (Solar PV and water turbine)
+5        Renewable heat and steam (Biomass – district
+6     heating,  geothermal & ground source heat pump)
+7                     Total direct energy consumption
+8                 Non-renewable energy (GRI 302-1)(6)
+9                                                 NaN
+10                                             Source
+11            Low carbon purchased electricity (Grid)
+12                     Fossil fuel electricity (Grid)
+13                                        Natural gas
+14                        Light fuel oil/ site diesel
+15                                    Propane and LPG
+16                         Total non-renewable energy
+Name: Unnamed: 0, dtype: object","0            GJ
+1     2,232,614
+2           NaN
+3        19,003
+4           NaN
+5       122,434
+6           NaN
+7     2,374,051
+8           NaN
+9           NaN
+10           GJ
+11            0
+12       33,114
+13    1,556,593
+14      107,994
+15      202,271
+16    1,899,972
+Name: Unnamed: 1, dtype: object","0            GJ
+1     2,201,420
+2           NaN
+3        19,038
+4           NaN
+5       115,439
+6           NaN
+7     2,335,897
+8           NaN
+9           NaN
+10           GJ
+11            0
+12       20,093
+13    1,629,455
+14      105,952
+15      190,085
+16    1,945,585
+Name: Unnamed: 2, dtype: object","0            GJ
+1     1,969,692
+2           NaN
+3        19,350
+4           NaN
+5       112,475
+6           NaN
+7     2,101,517
+8           NaN
+9           NaN
+10           GJ
+11            0
+12       17,087
+13    1,441,262
+14      102,681
+15      155,168
+16    1,716,198
+Name: Unnamed: 3, dtype: object",,,,,,"0         MWh
+1     620,170
+2         NaN
+3       5,278
+4         NaN
+5      34,009
+6         NaN
+7     659,457
+8         NaN
+9        2018
+10        MWh
+11          0
+12      9,198
+13    432,387
+14     29,998
+15     56,186
+16    527,769
+Name: 2018, dtype: object","0         MWh
+1     611,505
+2         NaN
+3       5,288
+4         NaN
+5      32,066
+6         NaN
+7     648,859
+8         NaN
+9        2019
+10        MWh
+11          0
+12      5,581
+13    452,626
+14     29,431
+15     52,802
+16    540,440
+Name: 2019, dtype: object","0         MWh
+1     547,137
+2         NaN
+3       5,375
+4         NaN
+5      31,243
+6         NaN
+7     583,755
+8         NaN
+9        2020
+10        MWh
+11          0
+12      4,746
+13    400,351
+14     28,522
+15     43,102
+16    476,721
+Name: 2020, dtype: object"
