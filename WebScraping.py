@@ -21,9 +21,24 @@ Runs for each name in the company names list
 Creates a new browser object each time so the download location can be changed
 this allows each company pdfs to be downloaded in the same folder.
 '''
+def Normalise(CompanyNames):
+    normalised_names = []
+    CompanyNames = [x.lower() for x in CompanyNames]
+    to_remove = ['\([^()]*\)','ltd', 'limited',' group','holdings','llp','public','company','plc','united kingdom','great britain','commercial','uk']
+    for i in CompanyNames:
+        for j in to_remove:
+            i = i.replace(j, '')
+        i.rstrip()
+        normalised_names.append(i)
+    normalised_names = [x.rstrip() for x in normalised_names]
+    normalised_names = ["\""+x+"\"" for x in normalised_names]
+    return normalised_names
+
+
+
 
 def WebScraper(companyNames,Criteria,downloadPath,Adate):
-    CompanyNames = companyNames
+    CompanyNames = Normalise(companyNames)
     criteria = Criteria
     downloadPath = downloadPath
     link = ('https://www.google.com/')
@@ -97,13 +112,16 @@ def WebScraper(companyNames,Criteria,downloadPath,Adate):
 
             #Wait to make sure each pdf is downloaded before continuing
             wait = True
-            downloadTime = time.time()
+            STime = time.time()
+            downloadTime = 0
             while wait and downloadTime<180:
                 time.sleep(random.uniform(5, 7.9))
                 wait = False
                 for fname in os.listdir(filepath):
                     if fname.endswith('.crdownload'):
                         wait = True   
+                downloadTime = time.time() - STime
+                print(downloadTime)
             time.sleep(random.uniform(3, 4.9))
             #print('moving on from ',name)
         else:

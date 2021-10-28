@@ -3,8 +3,8 @@ import PyPDF2
 from PyPDF2 import PdfFileWriter, PdfFileReader
 import os
 
-filepath_down = r'F:\WebScraping\CSV test 0.1\Downloads'
-filepath_fil = r'F:\WebScraping\CSV test 0.1\Filtered'
+filepath_down = r'F:\WebScraping\CSV test 0.2\Downloads'
+filepath_fil = r'F:\WebScraping\CSV test 0.2\Filtered'
 CompanyDirs = []
 
 directory_contents = os.listdir(filepath_down)
