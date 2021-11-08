@@ -2,9 +2,10 @@ from WebScraping import CompanyNames
 import PyPDF2
 from PyPDF2 import PdfFileWriter, PdfFileReader
 import os
+import math
 
-filepath_down = r'F:\WebScraping\CSV test 0.2\Downloads'
-filepath_fil = r'F:\WebScraping\CSV test 0.2\Filtered'
+filepath_down = r'C:\Users\jacks\Documents\Document(Offline)\Barcanet\Data Mining\Data Mining Test 0.3\Downloads'
+filepath_fil = r'C:\Users\jacks\Documents\Document(Offline)\Barcanet\Data Mining\Data Mining Test 0.3\FilteredTests'
 CompanyDirs = []
 
 directory_contents = os.listdir(filepath_down)
@@ -48,6 +49,16 @@ for name in CompanyNames:
                     for i in pages_to_keep:
                         p = infile.getPage(i)
                         output.addPage(p)
+                    if len(filepath_fil +'\\'+name+'\\'+fname+fname+' table 0')>250:
+                        print('Filepath too long: Truncating file name')
+                        try:
+                            length = int(math.ceil((len(filepath_fil +'\\'+name+'\\'+fname+fname+' table 0')-250)/2))
+                            print(length)
+                            fname = fname[:-4]
+                            print(fname[0:-length]+'.pdf')
+                            fname = fname[0:-length]+'.pdf'
+                        except Exception as e:
+                            print('File name too long, Error truncating file: ',e)
                     with open(filepath_fil +'\\'+name+'\\'+fname, 'wb') as f:
                         output.write(f)
             except (PyPDF2.utils.PdfReadError,KeyError,PermissionError,ValueError) as e:

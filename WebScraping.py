@@ -47,7 +47,7 @@ def WebScraper(companyNames,Criteria,downloadPath,Adate):
     file.close()
     for name in CompanyNames:
         #create folder for PDFs to go in
-        filepath = downloadPath+'\\'+name
+        filepath = downloadPath+'\\'+name[1:-1]
         
         #Defining the webdriver. Set options so it can download PDFs
         options = webdriver.ChromeOptions()
