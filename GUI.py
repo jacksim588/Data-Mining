@@ -8,7 +8,7 @@ from tkinter import filedialog
 from tkinter.font import Font
 from tkcalendar import DateEntry
 import tkinter.font as font
-import WebScraping
+import webScrape
 import csv
 import os
 
@@ -107,13 +107,13 @@ def onPress():
     namePath.encode('unicode_escape')
     print(namePath)
     with open(namePath,'r', encoding='utf-8-sig') as csv_file:
-        companies = csv_file.read().splitlines() 
-    print(companies)
+        companyNames = csv_file.read().splitlines() 
+    print(companyNames)
     
     
     
-    WebScraping.WebScraper(
-        companies,
+    webScrape.WebScraper(
+        companyNames,
         e_criteria.get(),
         e_DownloadDir.get(),
         B_Date

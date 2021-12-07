@@ -24,30 +24,29 @@ this allows each company pdfs to be downloaded in the same folder.
 def Normalise(CompanyNames):
     normalised_names = []
     CompanyNames = [x.lower() for x in CompanyNames]
-    to_remove = ['\([^()]*\)','ltd', 'limited',' group','holdings','llp','public','company','plc','united kingdom','great britain','commercial','uk']
+    to_remove = ['\([^()]*\)','ltd', 'limited',' group','holdings','llp','public','company','plc','united kingdom','great britain','commercial','uk','.',';',':']
     for i in CompanyNames:
         for j in to_remove:
             i = i.replace(j, '')
         i.rstrip()
         normalised_names.append(i)
     normalised_names = [x.rstrip() for x in normalised_names]
-    normalised_names = ["\""+x+"\"" for x in normalised_names]
     return normalised_names
 
 
 
 
-def WebScraper(companyNames,Criteria,downloadPath,Adate):
+def WebScraper(companyNames,Criteria,downloadPath,AfterDate):
     CompanyNames = Normalise(companyNames)
     criteria = Criteria
     downloadPath = downloadPath
     link = ('https://www.google.com/')
     file = open(downloadPath+'\\OutputReport.txt', 'a+')
-    file.write(criteria+" after:"+Adate.strftime('%Y-%m-%d')+" filetype:pdf"+'\n')
+    file.write(criteria+" after:"+AfterDate.strftime('%Y-%m-%d')+" filetype:pdf"+'\n')
     file.close()
     for name in CompanyNames:
         #create folder for PDFs to go in
-        filepath = downloadPath+'\\'+name[1:-1]
+        filepath = downloadPath+'\\'+name
         
         #Defining the webdriver. Set options so it can download PDFs
         options = webdriver.ChromeOptions()
@@ -61,21 +60,22 @@ def WebScraper(companyNames,Criteria,downloadPath,Adate):
         options.add_argument("disable-infobars")
         options.add_argument("--disable-extensions")
         browser = webdriver.Chrome(r"C:\webdrivers\chromedriver.exe",options=options)
-        time.sleep(random.uniform(3, 4.9))
+        time.sleep(random.uniform(3, 12.9))
 
         #Load Google
         browser.get(link)
         time.sleep(random.uniform(3, 4.9))
         button = browser.find_element_by_css_selector('#L2AGLb')
         ActionChains(browser).click(button).perform()
-
-
+        
         #Search for given Criteria
         search = browser.find_element_by_name('q')
-        search.send_keys(name+" "+criteria+" after:"+Adate.strftime('%Y-%m-%d')+" filetype:pdf")
+        exc_name = ' '.join('"{}"'.format(word) for word in name.split(' '))#adds qutation marks around each word
+        exc_name = re.sub("[\(\[].*?[\)\]]", "", exc_name)
+        search.send_keys(exc_name+" "+criteria+" after:"+AfterDate.strftime('%Y-%m-%d')+" filetype:pdf")
         search.send_keys(Keys.RETURN) # hit return after you enter search text
 
-        time.sleep(5) # sleep for 5 seconds so you can see the results
+        time.sleep(random.uniform(3, 4.9)) # sleep for 5 seconds so you can see the results
 
 
 
@@ -130,12 +130,17 @@ def WebScraper(companyNames,Criteria,downloadPath,Adate):
             file.close()
         browser.quit()
 
+        '''
+        This is where the filter process could go.
+        Make another function which takes the directory and filters all the PDFs in its
+        '''
 
+'''
 CompanyNames = ['ABACO RECRUITMENT LIMITED','ASDA','ABACO RECRUITMENT LIMITED']
 criteria = 'scope 1 co2e'
 downloadPath = r'F:\Webscraping\Downloads'
 
-'''
+
 starttime = time.time()
 print(starttime)
 WebScraper(CompanyNames,criteria,downloadPath)
