@@ -28,7 +28,7 @@ def minePDFs(filePath,name):
                 for i in range(infile.numPages):
                     page = infile.getPage(i)
                     text = page.extractText()
-                    if any(ext in text for ext in ['co2','CO2e','scope 1','Scope 1']):
+                    if any(ext in text for ext in ['scope 1','Scope 1']):
                         #print(i)
                         pages_to_keep.append(i)
                 

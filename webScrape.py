@@ -30,11 +30,11 @@ def Normalise(companyName):
     to_remove = ['\([^()]*\)','ltd', 'limited',' group','holdings',
                 'llp','public','company','plc','united kingdom',
                 'great britain','commercial','uk','.',';',
-                ':','LLC','llc']
+                ':','LLC','llc','holdings']
     normalisedName = re.sub("[\(\[].*?[\)\]]", "", normalisedName)
     for j in to_remove:
-            i = i.replace(j, '')
-    i.rstrip()
+            normalisedName = normalisedName.replace(j, '')
+    normalisedName.rstrip()
     normalisedName = " ".join(normalisedName.split())
     normalisedName = normalisedName.strip()
     return normalisedName
@@ -105,7 +105,8 @@ def WebScraper(companyNames,criteria,filePath,afterDate=''):
             browser = webdriver.Chrome(options=options)
 
         time.sleep(random.uniform(3, 12.9))
-        searchName = '"'+normalisedName+'"'
+        #searchName = '"'+normalisedName+'"'
+        searchName = normalisedName
         SearchName(searchName,link,searchPhrase,afterDate,browser)
 
         #Take html of cite and find all links
@@ -129,19 +130,25 @@ def WebScraper(companyNames,criteria,filePath,afterDate=''):
             elems = browser.find_elements_by_xpath("//a[@href]")
             #for each link, if it ends in pdf, download it
             window_before = browser.window_handles[0]
+
+            elemsPDF = []
+
             for elem in elems:
+                if elem.get_attribute("href").endswith(('.pdf')):#If element is  pdf link
+                    elemsPDF.append(elem)
+            print(elemsPDF)
+            for elem in elemsPDF[:1]:
                 try:
-                    if elem.get_attribute("href").endswith(('.pdf')):#If element is  pdf link
-                        pdflink = elem.get_attribute("href")#get link
-                        browser.execute_script("window.open('{}');".format(''))#open blank tab
-                        window_after = browser.window_handles[1]
-                        browser.switch_to.window(window_after)#swap to new tab
-                        browser.get(pdflink)#search pdf link (if its a pdf it will autodownload)
-                        browser.close()#close tab
-                        browser.switch_to.window(window_before)#swap back to original tab
+                    pdflink = elem.get_attribute("href")#get link
+                    browser.execute_script("window.open('{}');".format(''))#open blank tab
+                    window_after = browser.window_handles[1]
+                    browser.switch_to.window(window_after)#swap to new tab
+                    browser.get(pdflink)#search pdf link (if its a pdf it will autodownload)
+                    browser.close()#close tab
+                    browser.switch_to.window(window_before)#swap back to original tab
                 except (selenium.common.exceptions.StaleElementReferenceException,selenium.common.exceptions.WebDriverException):
                     print('StaleElementReferenceException')
-            
+
             #Wait to make sure each pdf is downloaded before continuing
             wait = True
             STime = time.time()
