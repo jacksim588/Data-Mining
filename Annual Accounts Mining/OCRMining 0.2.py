@@ -7,22 +7,24 @@ import pandas as pd
 import shutil
 import numpy as np
 from pdf2image import convert_from_path
-
+print('Beginning')
 #Tesseract exe is stored in as PATH variable. could be an issue when using on Virtual Machine
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-
+'''
 tempImagePath = r'F:\WebScraping\Companies House co2\Bot Output\Images'
 downloadPath = r'F:\WebScraping\Companies House co2\Bot Output\Test Downloads'
 filteredPath = r'F:\WebScraping\Companies House co2\Bot Output\Test Filtered Accounts'
+'''
+tempImagePath = r'C:\Users\jacks\Documents\GitHub\Data-Mining\Bot Output\Images'
+downloadPath = r'C:\Users\jacks\Documents\GitHub\Data-Mining\Bot Output\Test Downloads'
+filteredPath = r'C:\Users\jacks\Documents\GitHub\Data-Mining\Bot Output\Test Filtered Accounts'
+
 filterPhrases = ['turnover',
                 'revenue'
 ]
 
-#If the image folder exists, remove all files in it. If it doesn't, create an empty folder
-if os.path.exists(tempImagePath) and os.path.isdir(tempImagePath):
-    shutil.rmtree(tempImagePath)
-os.mkdir(tempImagePath)
+
 '''
 Function which, when given a list of numbers, 
 returns a list of number pairs representing concurrent numbers
@@ -59,12 +61,20 @@ Cycles for each File in the downloads folder, so that it covers each pdf.
 Can be changed to be within a loop which downloads the PDFs
 To do that, need to replace 'for each file' with 'latest file'
 '''
+print('Beginning')
+
+#If the image folder exists, remove all files in it. If it doesn't, create an empty folder
+if os.path.exists(tempImagePath) and os.path.isdir(tempImagePath):
+    shutil.rmtree(tempImagePath)
+os.mkdir(tempImagePath)
+
+output = []
 
 #unfilteredPDFPath = max(listOfFiles, key=os.path.getctime) #Get latest file
 for unfilteredPDFPath in os.listdir(downloadPath):
     filteredPages = [] #list to hold pages with relevant key words
-
-    pages = convert_from_path(downloadPath+'\\'+unfilteredPDFPath, 350) #converts a PDF to a list of images
+    
+    pages = convert_from_path(downloadPath+'\\'+unfilteredPDFPath, 350,poppler_path = r"C:\Program Files\Poppler\poppler-22.01.0\Library\bin") #converts a PDF to a list of images
 
     #Useful for bug testing, can be commented out
     print('Searching Pages for Data')
@@ -244,11 +254,11 @@ for unfilteredPDFPath in os.listdir(downloadPath):
     regex is used to filter the y0, and y1, columns down to just numbers
     in the format we want
     '''
-    print(cumulateArray)
+    #print(cumulateArray)
     df = pd.DataFrame(cumulateArray)
-    print(df)
+    #print(df)
     df.columns = ['Label','Y0','Y1']
-    print(df)
+    #print(df)
     df = df.replace('\n','', regex=True)
     df['Y1'] = df['Y1'].replace(r'[^0-9()^.]','', regex=True)
     df['Y0'] = df['Y0'].replace(r'[^0-9()^.]','', regex=True)
@@ -256,7 +266,59 @@ for unfilteredPDFPath in os.listdir(downloadPath):
 
     df['Y0'] = df['Y0'].replace(['.','(',')','()'],None)
     df['Y1'] = df['Y1'].replace(['.','(',')','()'],None)
-    df = df.dropna(subset=['Y0', 'Y1'], how='all')
+    #df = df.dropna(subset=['Y0', 'Y1'], thresh='all')
     #df = df[(df.Y0 != '')or(df.Y1 != '')]
-    print(df)
+
+    #print(df)
     df.to_csv('example.csv',index=False) 
+
+    df = pd.read_csv(r'C:\Users\jacks\Documents\GitHub\Data-Mining\example.csv')
+    inds = df[["Y0", "Y1"]].isnull().all(axis=1) 
+    df = df.loc[~inds, :]
+    print(df)
+    
+    revenueY0='' 
+    revenueY1 =''
+    grossprofitY0=''
+    grossprofitY1 =''
+    distributionexpensesY0=''
+    distributionexpensesY1 =''
+    profitbeforetaxY0=''
+    profitbeforetaxY1=''
+
+    for index, row in df.iterrows():
+        outputRow=[]
+        if 'revenue' in row['Label'].replace(" ", "").lower():
+            revenueY0 = row['Y0']
+            revenueY1 = row['Y1']
+        elif 'grossprofit' in row['Label'].replace(" ", "").lower():
+            grossprofitY0 = row['Y0']
+            grossprofitY1  = row['Y1']
+        elif 'distributionexpenses' in row['Label'].replace(" ", "").lower():
+            distributionexpensesY0 = row['Y0']
+            distributionexpensesY1  = row['Y1']
+        elif 'profitbeforetax' in row['Label'].replace(" ", "").lower():
+            profitbeforetaxY0 = row['Y0']
+            profitbeforetaxY1  = row['Y1']
+    #df.to_csv('example.csv',index=False) 
+    output.append([unfilteredPDFPath[:-4],
+            revenueY0,
+            revenueY1,
+            grossprofitY0,
+            grossprofitY1,
+            distributionexpensesY0,
+            distributionexpensesY1,
+            profitbeforetaxY0,
+            profitbeforetaxY1])
+df_output = pd.DataFrame(output, columns=['Number',
+                        'revenueY0',
+                        'revenueY1',
+                        'grossprofitY0',
+                        'grossprofitY1',
+                        'distributionexpensesY0',
+                        'distributionexpensesY1',
+                        'profitbeforetaxY0',
+                        'profitbeforetaxY1'])
+print(output)
+df_output.to_csv('Output.csv',index=False, dtype ='str')
+print(df_output)
