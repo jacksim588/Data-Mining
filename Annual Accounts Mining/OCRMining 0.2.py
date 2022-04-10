@@ -1,4 +1,5 @@
 import cv2
+import csv
 import os
 import pytesseract
 from PIL import Image
@@ -6,22 +7,29 @@ import numpy as np
 import pandas as pd
 import shutil
 import numpy as np
+from pathlib import Path
 from pdf2image import convert_from_path
+import time
+
+from sklearn.model_selection import StratifiedShuffleSplit
 print('Beginning')
 #Tesseract exe is stored in as PATH variable. could be an issue when using on Virtual Machine
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+poppler_path = r"C:\Program Files\poppler-0.68.0\bin"
 
 '''
 tempImagePath = r'F:\WebScraping\Companies House co2\Bot Output\Images'
 downloadPath = r'F:\WebScraping\Companies House co2\Bot Output\Test Downloads'
 filteredPath = r'F:\WebScraping\Companies House co2\Bot Output\Test Filtered Accounts'
 '''
-tempImagePath = r'C:\Users\jacks\Documents\GitHub\Data-Mining\Bot Output\Images'
-downloadPath = r'C:\Users\jacks\Documents\GitHub\Data-Mining\Bot Output\Test Downloads'
-filteredPath = r'C:\Users\jacks\Documents\GitHub\Data-Mining\Bot Output\Test Filtered Accounts'
 
-filterPhrases = ['turnover',
-                'revenue'
+mainFolder = r'C:\Users\Clamfighter\Documents\GitHub\Data-Mining\Data-Mining\Bot Output'
+tempImagePath = mainFolder+ '\\bin'
+downloadPath = mainFolder+ '\downloads'
+filteredPath = mainFolder+ '\Test Filtered Accounts'
+outputfilePath = 'output(temp).csv'
+
+filterPhrases = ['gross profit'
 ]
 
 
@@ -43,7 +51,7 @@ def toList(string):
 
 def getDataRangesFromImage(imageArray):
     datainrow = []
-    print(len(imageArray))
+    #print(len(imageArray))
     i=0
     for line in imageArray:
         #print(line)
@@ -56,6 +64,17 @@ def getDataRangesFromImage(imageArray):
         i=i+1
     dataRanges = (ranges(datainrow))
     return dataRanges
+
+def deleteFolderContents(folder):
+    for filename in os.listdir(folder):
+        file_path = os.path.join(folder, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print('Failed to delete %s. Reason: %s' % (file_path, e))
 '''
 Cycles for each File in the downloads folder, so that it covers each pdf.
 Can be changed to be within a loop which downloads the PDFs
@@ -63,27 +82,39 @@ To do that, need to replace 'for each file' with 'latest file'
 '''
 print('Beginning')
 
-#If the image folder exists, remove all files in it. If it doesn't, create an empty folder
-if os.path.exists(tempImagePath) and os.path.isdir(tempImagePath):
-    shutil.rmtree(tempImagePath)
-os.mkdir(tempImagePath)
 
 output = []
 
-#unfilteredPDFPath = max(listOfFiles, key=os.path.getctime) #Get latest file
-for unfilteredPDFPath in os.listdir(downloadPath):
-    filteredPages = [] #list to hold pages with relevant key words
-    
-    pages = convert_from_path(downloadPath+'\\'+unfilteredPDFPath, 350,poppler_path = r"C:\Program Files\Poppler\poppler-22.01.0\Library\bin") #converts a PDF to a list of images
+#Variables to calculate time per PDF and page
+avgtimeperPDF=0
+maxtimeperPDF=0
+mintimeperPDF=0
+pdfCount = 0
+avgtimeperPage=0
+maxtimeperPage=0
+mintimeperPage=0
+pageCount=0
 
+#For each unfiltered PDF
+for unfilteredPDFPath in os.listdir(downloadPath):
+    pdfStart = time.time()
+
+
+    print(unfilteredPDFPath)
+    filteredPages = [] #list to hold pages with relevant key words
+    print(downloadPath+'\\'+unfilteredPDFPath)
+    pages = convert_from_path(downloadPath+'\\'+unfilteredPDFPath, 350,poppler_path=poppler_path) #converts a PDF to a list of images
+    print(pages)
     #Useful for bug testing, can be commented out
     print('Searching Pages for Data')
     print('Number of pages being searched: ', len(pages))
 
     imageCount = 0 #cv2 requires an image path, so the image is stored locally using image count as name
     cumulateArray = [] #Stores the extracted Data from the filtered PDF Pages
+    
     for page in pages:
-        imagePath = tempImagePath+'\\'+str(imageCount)+'.jpg'
+        pageStart = time.time()
+        imagePath = tempImagePath+'\\page'+str(imageCount)+'.jpg'
         page.save(imagePath,'JPEG') #saves image as jpeg to temp storage
         image = cv2.imread(imagePath) #imports image as cv2 image object
         text = str(pytesseract.image_to_string(image)).lower() #Uses OCR to extract text (as lower case) from the page as a string
@@ -96,27 +127,27 @@ for unfilteredPDFPath in os.listdir(downloadPath):
             Values range from 0-255, with 0 being complete black, and 255 being complete white
             This creates a list of pixel rows from the image which contain text
             '''
-            #REPALCE THIS WITH THE FUNCTION IN THE IPYNB
+            
             dataRanges = getDataRangesFromImage(image[:, :, 0])
             '''
             Gets a list of pairs of numbers. 
             each pair represents a set of concurrent rows where data is found
             this used to extract each line data from the image
             '''
-            print('Data Ranges: ')
-            print(dataRanges)
+            #print('Data Ranges: ')
+            #print(dataRanges)
 
             
             for foundData in dataRanges:
-                print(foundData)
+                #print(foundData)
                 currentImage = []
                 rangeList = list(foundData)
 
                 if rangeList[1] - rangeList[0] > 1: #if there is more than 1 consecutive row with data
-                    print('checking data ranges:')
-                    print(rangeList[0])
-                    print(rangeList[1])
-                    print('image length',len(image[:, :, 0]))
+                    #print('checking data ranges:')
+                    #print(rangeList[0])
+                    #print(rangeList[1])
+                    #print('image length',len(image[:, :, 0]))
                     #adds buffer to lower bound
                     if rangeList[0] >=2:
                         lowerBound = (rangeList[0])-2
@@ -125,17 +156,17 @@ for unfilteredPDFPath in os.listdir(downloadPath):
                     #adds buffer to upper bound
                     if rangeList[1] < (len(image[:, :, 0]))-3:
                         upperBound = (rangeList[1])+3
-                        print('not last 3 element')
+                        #print('not last 3 element')
                     else:
                         upperBound = len(image[:, :, 0])
-                        print('last 3 element')
+                        #print('last 3 element')
                     
-                    print('Lower Bound',lowerBound)
-                    print('Upper Bound',upperBound)
+                    #print('Lower Bound',lowerBound)
+                    #print('Upper Bound',upperBound)
                     
                     #uses bounds to create image of current selection
                     for i in range(lowerBound,upperBound):
-                        print('adding row: ',i)
+                        #print('adding row: ',i)
                         currentImage.append(image[:, :, 0][i])
                     '''
                     Exports current data row as image
@@ -144,19 +175,19 @@ for unfilteredPDFPath in os.listdir(downloadPath):
                     '''
                     if currentImage:
                         currentImage = np.asarray(currentImage)
-                        print('Current Image Array')
-                        print(currentImage)
+                        #print('Current Image Array')
+                        #print(currentImage)
                         #im = Image.fromarray(currentImage)
                         #im.save(str(foundData)+"your_file.jpeg")
-                        cv2.imwrite(str(foundData)+"your_file.jpeg", currentImage)
+                        cv2.imwrite(tempImagePath+'/dataRange'+str(foundData)+".jpeg", currentImage)
                         '''
                         TODO Import currentImage into a a temporary, local, folder
                         '''
                         
-                        dataRowImage = cv2.imread(str(foundData)+"your_file.jpeg")
+                        dataRowImage = cv2.imread(tempImagePath+'/dataRange'+str(foundData)+".jpeg")
                         imageArray = np.array(dataRowImage[:, :, 0]).T
                         charRanges = getDataRangesFromImage(imageArray)
-                        print(charRanges)
+                        #print(charRanges)
 
                         consData = []
                         dataRowRanges = []
@@ -184,14 +215,14 @@ for unfilteredPDFPath in os.listdir(downloadPath):
                             #print(outputList)
                             consData.append([outputList])
                             charRanges = charRanges[maxVal+1:]
-                        print(consData)
+                        #print(consData)
 
                         for i in consData:
                             #print(i[0][0][0])
                             #print(i[0][-1][1])
                             dataRowRanges.append((i[0][0][0],i[0][-1][1]))
 
-                        print(dataRowRanges)
+                        #print(dataRowRanges)
 
                         j=0
                         p = 10
@@ -207,15 +238,15 @@ for unfilteredPDFPath in os.listdir(downloadPath):
                             im = Image.fromarray(currentImage)
                             if im.mode != 'RGB':
                                 im = im.convert('RGB')
-                            im.save(str(j)+"your_file.jpeg")
-                            imageWord = cv2.imread(str(j)+"your_file.jpeg")
+                            im.save(tempImagePath+'\\DataColumnRanges'+str(j)+".jpeg")
+                            imageWord = cv2.imread(tempImagePath+'\\DataColumnRanges'+str(j)+".jpeg")
                             #print('OCR on Image')
                             text = str(pytesseract.image_to_string(imageWord)).rstrip()
                             #print(text)
                             textArray.append(text)
                             j+=1
-                        print(textArray)
-
+                        #print(textArray)
+        
 
 
 
@@ -233,17 +264,30 @@ for unfilteredPDFPath in os.listdir(downloadPath):
                         y0=''
                         y1=''
                         label=''
-                        if len(textArray) >=3:
+                        if len(textArray) >=3:#TODO make length variable
                             y0 = textArray[-2]
                             y1 = textArray[-1]
                             label = ' '.join(textArray[:-1])
-                            outputArray = [label,y0,y1]
+                            outputArray = [label,y0,y1]#TODO make output variable
                             #print(outputArray)
                             cumulateArray.append(outputArray)
                         
-                        print('Cumulate Array')
-                        print(cumulateArray)
+                        #print('Cumulate Array')
+                        #print(cumulateArray)
+        deleteFolderContents(tempImagePath)
 
+        pageTime = time.time() - pageStart
+
+        if (pageCount>0) and (maxtimeperPage<pageTime):
+            maxtimeperPage = pageTime
+        elif (pageCount>0) and (mintimeperPage>pageTime):
+            mintimeperPage = pageTime
+        elif pageCount==0:
+            maxtimeperPage = pageTime
+            mintimeperPage = pageTime
+            avgtimeperPage = pageTime
+        pageCount+=1
+        avgtimeperPage += (pageTime-avgtimeperPage)/pageCount
     '''
     Creates dataframe from extracted data data
     3 columns: label, y0 and y1
@@ -255,30 +299,39 @@ for unfilteredPDFPath in os.listdir(downloadPath):
     in the format we want
     '''
     #print(cumulateArray)
+
     df = pd.DataFrame(cumulateArray)
     #print(df)
-    df.columns = ['Label','Y0','Y1']
-    #print(df)
-    df = df.replace('\n','', regex=True)
-    df['Y1'] = df['Y1'].replace(r'[^0-9()^.]','', regex=True)
-    df['Y0'] = df['Y0'].replace(r'[^0-9()^.]','', regex=True)
-    
+    if not df.empty:
+        df.columns = ['Label','Y0','Y1']
+        #print(df)
+        df = df.replace('\n','', regex=True)
+        df['Y1'] = df['Y1'].replace(r'[^0-9()^.]','', regex=True)
+        df['Y0'] = df['Y0'].replace(r'[^0-9()^.]','', regex=True)
+        
 
-    df['Y0'] = df['Y0'].replace(['.','(',')','()'],None)
-    df['Y1'] = df['Y1'].replace(['.','(',')','()'],None)
-    #df = df.dropna(subset=['Y0', 'Y1'], thresh='all')
-    #df = df[(df.Y0 != '')or(df.Y1 != '')]
+        df['Y0'] = df['Y0'].replace(['.','(',')','()'],None)
+        df['Y1'] = df['Y1'].replace(['.','(',')','()'],None)
+        #df = df.dropna(subset=['Y0', 'Y1'], thresh='all')
+        #df = df[(df.Y0 != '')or(df.Y1 != '')]
+    else:
+        df = pd.DataFrame([['' for col in range(3)] for row in range(1)])
+        df.columns = ['Label','Y0','Y1']
 
-    #print(df)
-    df.to_csv('example.csv',index=False) 
+    print(df)
 
-    df = pd.read_csv(r'C:\Users\jacks\Documents\GitHub\Data-Mining\example.csv')
+    #df.to_csv('example.csv',index=False) 
+    #df = pd.read_csv(r'example.csv')
+
     inds = df[["Y0", "Y1"]].isnull().all(axis=1) 
     df = df.loc[~inds, :]
     print(df)
-    
+    turnoverY0=''
+    turnoverY1=''
     revenueY0='' 
     revenueY1 =''
+    costofsalesY0=''
+    costofsalesY1=''
     grossprofitY0=''
     grossprofitY1 =''
     distributionexpensesY0=''
@@ -291,6 +344,12 @@ for unfilteredPDFPath in os.listdir(downloadPath):
         if 'revenue' in row['Label'].replace(" ", "").lower():
             revenueY0 = row['Y0']
             revenueY1 = row['Y1']
+        elif 'turnover' in row['Label'].replace(" ", "").lower():
+            turnoverY0 = row['Y0']
+            turnoverY1 = row['Y1']
+        elif 'costofsale' in row['Label'].replace(" ", "").lower():
+            costofsalesY0 = row['Y0']
+            costofsalesY1 = row['Y1']
         elif 'grossprofit' in row['Label'].replace(" ", "").lower():
             grossprofitY0 = row['Y0']
             grossprofitY1  = row['Y1']
@@ -301,24 +360,58 @@ for unfilteredPDFPath in os.listdir(downloadPath):
             profitbeforetaxY0 = row['Y0']
             profitbeforetaxY1  = row['Y1']
     #df.to_csv('example.csv',index=False) 
-    output.append([unfilteredPDFPath[:-4],
+    output = [unfilteredPDFPath[:-4],
             revenueY0,
             revenueY1,
+            turnoverY0,
+            turnoverY1,
+            costofsalesY0,
+            costofsalesY1,
             grossprofitY0,
             grossprofitY1,
             distributionexpensesY0,
             distributionexpensesY1,
             profitbeforetaxY0,
-            profitbeforetaxY1])
-df_output = pd.DataFrame(output, columns=['Number',
-                        'revenueY0',
-                        'revenueY1',
-                        'grossprofitY0',
-                        'grossprofitY1',
-                        'distributionexpensesY0',
-                        'distributionexpensesY1',
-                        'profitbeforetaxY0',
-                        'profitbeforetaxY1'])
-print(output)
-df_output.to_csv('Output.csv',index=False, dtype ='str')
-print(df_output)
+            profitbeforetaxY1]
+    if Path(outputfilePath).is_file():
+        print(output)
+        with open("output.csv","a", newline="") as fp:
+            wr = csv.writer(fp)
+            wr.writerow(output)
+    else:
+        print(output)
+        df_output = pd.DataFrame([output], columns=['Number',
+                                'revenueY0',
+                                'revenueY1',
+                                'turnoverY0',
+                                'turnoverY1',
+                                'costofsalesY0',
+                                'costofsalesY1',
+                                'grossprofitY0',
+                                'grossprofitY1',
+                                'distributionexpensesY0',
+                                'distributionexpensesY1',
+                                'profitbeforetaxY0',
+                                'profitbeforetaxY1'])
+
+        df_output.to_csv('Output.csv',index=False)
+    pdfTime = time.time() - pdfStart
+
+    if (pdfCount>0) and (maxtimeperPDF<pdfTime):
+        maxtimeperPDF = pdfTime
+    elif (pdfCount>0) and (mintimeperPDF>pdfTime):
+        mintimeperPDF = pdfTime
+    elif pdfCount==0:
+        maxtimeperPDF = pdfTime
+        mintimeperPDF = pdfTime
+        avgtimeperPDF = pdfTime
+    pdfCount+=1
+    avgtimeperPDF += (pdfTime-avgtimeperPDF)/pdfCount
+
+print('Average Time per PDF: ',avgtimeperPDF)
+print('Max Time per PDF: ',maxtimeperPDF)
+print('Min Time per PDF: ',mintimeperPDF)
+
+print('Average Time per Page: ',avgtimeperPage)
+print('Max Time per Page: ',maxtimeperPage)
+print('Min Time per Page: ',mintimeperPage)
