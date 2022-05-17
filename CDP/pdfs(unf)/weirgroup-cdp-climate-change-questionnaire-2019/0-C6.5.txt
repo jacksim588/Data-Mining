@@ -1,0 +1,56 @@
+yN C
+Weir Group CDP Climate Change Questionnaire 2019 Tuesday, October 1, 2019 >» > b DP
+
+DISCLOSURE INSIGHT ACTION
+Not relevant, explanation provided
+
+Explanation
+With a relatively low turnover rate of capital equipment, our global annual footprint is
+driven primarily by operational GHG emissions rather than through the purchase of new
+capital goods and the import of associated embodied carbon. Embodied carbon relating
+to capital goods is therefore not considered relevant for total global GHG emissions
+calculation.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+
+Upstream transportation and distribution
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+
+Waste generated in operations
+
+Evaluation status
+Not relevant, explanation provided
+
+Explanation
+Weir produces waste through its operational processes and, in line with Lean principles,
+continually seeks to reduce the quantities generated. A high proportion of the waste
+generated is inert and therefore has low carbon emissions. Compared to the energy
+intensity of the operations, carbon emissions from waste are expected to be insignificant
+and therefore not relevant.
+
+Business travel
+
+Evaluation status
+Not relevant, calculated
+
+Metric tonnes CO2e
+400.89
+
+Emissions calculation methodology
+
+Emissions from business travel have been calculated with regard to Group Executive
+and Board meetings during 2018.
+
+The method used to calculate emissions was:
+Activity data x GHG emissions factor = GHG emissions value.
+
+62

@@ -1,0 +1,37 @@
+uN
+Core Laboratories N.V. CDP Climate Change Questionnaire 2020 Wednesday, August 26, 2020 wy ( D p
+
+DISCLOSURE INSIGHT ACTION
+Emissions are not relevant
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+Emissions are not relevant
+
+Explain why this source is excluded
+These spaces are allotted by the client per our service agreement in refineries, remote field locations or offshore platforms for our employees to
+complete work assignments, temporary lodging or storage of samples. These spaces are typically for just one or two days, or up to a month,
+and in rare cases longer in remote assignments in remote locations around the globe. In these spaces the facilities can be shared with other
+contractors or client personnel and are temporary. Being part of the service agreements, we have no obligation to lease any of the spaces, pay
+for electricity, or be responsible in any way. Due to the geographic distribution, small facility size, sharing of space, short duration and temporary
+nature we consider contributions to GHG from our temporary field activities to be a negligible contribution to the total Scope 1 & 2 emissions.
+Further, data from our client to calculate an accurate tones CQ2e is not available and often could not be separated from their total usages ina
+given facility and may in fact be the client responsibility to report as part of their overall emission.
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+15,999
+
+Emissions calculation methodology
+Data input: Trucost used Core Lab’s supplier expenditure
+Emission factor used: Trucost EEI O model and sector estimation factors (incl. emissions of all supply chain tiers up to and including raw
+material extraction)
+
+61

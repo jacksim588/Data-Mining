@@ -1,0 +1,36 @@
+yN
+Sysco Corporation CDP Climate Change Questionnaire 2021 Wednesday, July 28, 2021 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+Please note that emissions totals do not exactly correspond to energy disclosures. Emission totals represent tracked emissions at our US,
+Canada and UK sites, as well as estimated emissions for our Specialty sites. Due to reporting constraints, electricity totals reported in Section 8
+represent tracked electricity consumption at our US and Canada facilities. Electricity totals do not include our estimated Specialty sites.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+
+Scope 2, location-based
+245,656
+
+Scope 2, market-based (if applicable)
+236,574
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1 and Scope 2 emissions that are
+within your selected reporting boundary which are not included in your disclosure?
+Yes
+
+45

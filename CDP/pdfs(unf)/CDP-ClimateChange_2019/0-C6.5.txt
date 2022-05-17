@@ -1,0 +1,56 @@
+WN
+Evonik Industries AG CDP Climate Change Questionnaire 2019 Monday, July 29, wy DP
+
+2019
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+11,500,000
+
+Emissions calculation methodology
+The emissions have been calculated according to the "Greenhouse Gas Protocol’s
+Corporate Value Chain (Scope 3) Accounting and Reporting Standard (revised edition
+2004)", "Required Greenhouse Gases in Inventories, Accounting and Reporting
+Standard Amendment (2013)", "Corporate Value Chain (Scope 3) Accounting and
+Reporting Standard, Supplement to the GHG Protocol Corporate Accounting and
+Reporting Standard (2011)" and the "World Business Council for Sustainable
+Development: Guidance for Accounting & Reporting Corporate GHG Emissions in the
+Chemical Sector Value Chain (2013)".
+Chemical Raw Materials
+The calculation of the CO2eq burden is based on a top 100 list of most frequently
+purchased raw materials by volume. thinkstep AG identified current emission factors
+from the GaBi 7 database (2017) or, in rare cases, estimated emission factors from
+similar products or average values. An extrapolation of GHG emissions was performed
+on the basis of total raw material volumes. Emissions from production of indirect
+purchased goods and packaging materials are reported, emissions from purchased
+services are not considered in this category yet.
+Indirect purchased goods and packaging materials
+The calculation of emissions is based on a classified list of purchasing volumes of
+indirect procurement. The list contains both, purchases from indirect goods and from
+capital goods. Indirect procurement allocated all purchasing classes to the
+corresponding reporting categories 1 (purchased goods) and 2 (capital goods). The top
+100 categories by purchase value were analyzed and an extrapolation of GHG
+emissions was performed on the basis of total purchase values. The top 100 purchasing
+classes analyzed cover more than 80% of the total purchased volume and therefore
+fulfill the condition of at least 80 % coverage recommended by WBCSD Scope 3
+Chemical Sector Guidance. The amounts of purchased indirect goods and packaging
+materials were calculated based on average prices of the corresponding materials. For
+those materials, emission factors were identified from the GaBi 7 database (2017).
+Emissions were calculated by multiplication of amounts of purchased indirect goods with
+the emissions factors.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+
+50

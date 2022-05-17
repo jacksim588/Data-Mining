@@ -1,0 +1,36 @@
+yN
+ICL CDP Climate Change Questionnaire 2019 Tuesday, August 27, 2019 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining any exclusions.
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+6,551
+
+Emissions calculation methodology
+The emissions given in this line represent our GHG emissions related to externally sourced water. The emissions were calculated using
+DEFRA/DECC 2018 emission factors for supplied water. These EF's were used on all water purchased by the different ICL companies (tap
+water, well, river etc.). Quality of information is considered high, as most water figures are derived of primary data (invoices of water suppliers).
+In the minority of cases, where no metering is conducted, the consumption was estimated by the relevant facility personnel. The assumption is
+that these GHG emissions derive of electricity consumed in pumping and/or pre-treatment of the water by the suppliers. Other materials sourced
+externally have been assessed as part of our product foot printing analyses in cooperation with our consultants and ICL's purchasing and
+supply-chain departments. Our conclusion was that ICL did not have influence on potential reduction of emissions resulting from the
+production/supply of these materials, and they were therefore excluded from our Scope 3 GHG inventory. This conclusion will be re-discussed
+and assessed in coming years, in relation to the data received through ICL's increased sustainable procurement efforts- conducted as part of
+the TFS initiative (see further details in chapter 12 of this report).
+
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+
+Explanation
+
+Capital goods
+
+52

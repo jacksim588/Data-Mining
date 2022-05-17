@@ -1,0 +1,50 @@
+uN
+Pfizer Inc. CDP Climate Change Questionnaire 2021 Wednesday, July 28, 2021 wy ( D p
+
+DISCLOSURE INSIGHT ACTION
+
+The location-based result has been used as a proxy since a market-based method did
+not exist in 2012 and the figure cannot be calculated.
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+654,460
+
+Start date
+January 1, 2020
+
+End date
+December 31, 2020
+
+Comment
+
+Past year 1
+
+Gross global Scope 1 emissions (metric tons CO2e)
+697,313
+
+Start date
+January 1, 2019
+
+End date
+December 31, 2019
+
+Comment
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.

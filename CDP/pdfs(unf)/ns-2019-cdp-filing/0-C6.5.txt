@@ -1,0 +1,57 @@
+WN
+Norfolk Southern Corp. CDP Climate Change Questionnaire 2019 Wednesday, wy D Pp
+
+July 31, 2019
+DISCLOSURE INSIGHT ACTION
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Not relevant, explanation provided
+
+Explanation
+Emissions for this category such as purchased diesel fuel have been included in our
+Scope 1 emissions calculations.
+
+Capital goods
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+5,807 368.45
+
+Emissions calculation methodology
+Emissions were calculated based on the hybrid method as outlined in the GHG
+Protocol’s Technical Guidance for Calculating Scope 3 Emissions. Locomotives are the
+primary capital goods acquired by Norfolk Southern Railway. Accordingly, GHG
+emissions and other data was requested from GE, our principal locomotive supplier. The
+data received from the suppliers was used to calculate Norfolk Southern’s GHG
+emissions from capital goods. For data that was not provided by suppliers, an average
+numerical value was used in estimating GHG emissions. Emissions for capital goods
+were calculated using volumes of key purchased goods by type of material applied
+against applicable emission factors from the IPCC.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+50
+
+Explanation
+This year, we obtained data on locomotives supplied to Norfolk Sothern from GE
+Transportation. GE is Norfolk Southern’s primary locomotive supplier. We also obtained
+data from our suppliers of rails, ballasts, and ties.
+
+30

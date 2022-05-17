@@ -1,0 +1,51 @@
+DANFOSS CDP Climate Change Questionnaire 2020 Tuesday, August 25, 2020
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We have operations where we are able to access electricity supplier emission factors or
+residual emissions factors, but are unable to report a Scope 2, market-based figure
+
+Comment
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+220,399
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+Yes
+
+C6.4a
+
+(C6.4a) Provide details of the sources of Scope 1 and Scope 2 emissions that are
+within your selected reporting boundary which are not included in your disclosure.
+
+Source
+Small sales offices in leased premises accounting for estimated 5% of the Group's total
+emissions.
+
+Relevance of Scope 1 emissions from this source
+No emissions from this source
+
+Relevance of location-based Scope 2 emissions from this source
+Emissions are not evaluated
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+
+24
+
+Classified as Business

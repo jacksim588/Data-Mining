@@ -1,0 +1,52 @@
+Manulife Financial Corp. CDP Climate Change Questionnaire 2020 Wednesday, we DP
+
+August 26, 2020
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+197,381
+
+Emissions calculation methodology
+We calculated the GHG emissions associated with our transactional and office paper.
+We apply a conversion factor of 2.541 mtCO2e/tonne of paper purchased. This
+emission factor is taken from the Environmental Paper Network 2015, Paper Calculator.
+We used the emission factor for uncoated freesheet, 0% recycled to be conservative in
+our calculation.
+
+We calculate emissions from third-party data centres. This is done by multiplying the
+electricity use kWh by the emission factor relevant for the province or state in which the
+data centre is located taken from the US EPA eGrid emission factors, Summary Tables,
+released 2020 and the Canadian National Inventory Report written in 2019
+
+We calculate emissions from Contractor Fuel Use from the Manulife Investment
+Management's agriculture and timber business.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+100
+
+Please explain
+
+Capital goods
+
+Evaluation status
+Relevant, not yet calculated
+
+Please explain
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, not yet calculated
+
+67

@@ -1,0 +1,56 @@
+WN
+Comerica Incorporated CDP Climate Change Questionnaire 2021 Tuesday, July wy DP
+
+27, 2021
+
+DISCLOSURE INSIGHT ACTION
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+6,180
+
+Emissions calculation methodology
+The lifecycle emissions calculated within this estimate include paper, computer and
+carpeting emissions. (1) Paper: LCA-based emissions of office/marketing papers (4,758
+MtCO2e) were calculated according to Environmental Paper Network Paper Calculator,
+Version 4.0 using quantities of paper types purchased by Comerica, categorized
+according to paper type (coated or uncoated free sheet) and percentage of post-
+consumer recycle content. GWPs provided from the IPCC AR5-20 year (CO2=1,
+CH4=102, N20=264). Lifecycle analysis and data quality documentation is provided at:
+https://c.environmentalpaper.org/pdf/SCS-EPN-PC-Methods.pdf (2) Computers: LCA-
+based emissions of desktops, notebooks, tablets, all-in-one computers and displays
+(1,265 MtCO2e) were calculated based on product-specific information provided by
+suppliers (Dell and Apple) and quantities of units purchased by Comerica (2,723
+notebooks, 3 desktops, and 861 displays). Emission factors: notebook (299-512 kg
+CO2e/unit), desktop (197-449 kg CO2e/unit), and displays (429-577 kg CO2e/unit). For
+Dell LCA estimations, please refer to https://corporate.delltechnologies.com/en-
+us/social-impact/advancing-sustainability/sustainable-products-and-services/product-
+carbon-footprints.htm. For Apple lifecycle analysis estimations, please refer to
+https://images.apple.com/environment/reports/ (3) Carpeting: The LCA-based emissions
+of carpet purchases (157 MtCO2e) were calculated based on product-specific
+information provided by our main supplier and unit quantities purchased by Comerica
+(9,531 yd2 carpet tile and vinyl tile). Emission factors: carpet tile emission factor (12.99
+kg CO2e/yd2) for carpet tile brands and vinyl tile emission factors (34.98 to 53.73 kg
+CO2e/yd2). Lifecycle analysis tests were performed by Shaw (using CML VLCA/TRACI
+2.1 for carpet and GaBi 8.7, TRACI2.1 for vinyl flooring). Emissions provided represent
+
+48

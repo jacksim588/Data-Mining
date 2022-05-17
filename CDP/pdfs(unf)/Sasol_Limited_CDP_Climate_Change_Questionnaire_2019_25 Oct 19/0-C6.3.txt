@@ -1,0 +1,57 @@
+yN C
+Sasol Limited CDP Climate Change Questionnaire 2019 25 October 2019 >» > b DP
+
+DISCLOSURE INSIGHT ACTION
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+7,756,000
+
+Start date
+July 1, 2017
+
+End date
+June 30, 2018
+
+Comment
+None.
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+3,760,958
+
+Emissions calculation methodology
+Sasol estimated emissions associated with selected and material purchased goods and
+services. This includes purchased potable water, natural gas, crude oil, coal and white
+product (refined fuel that Sasol purchases and sells) with an assumption that 40% is
+diesel and the other remaining 60% is petrol). Activity data is attributed on an
+operational control basis. This activity data is multiplied by the appropriate emission
+factor. Calculation of the carbon footprint complies with the criteria of the ISO-14064
+part 1 Standard and GHG Protocol —Corporate Value Chain (scope 3) Accounting and
+Reporting Standard. The following DEFRA 2018 emission factors were used: water
+treatment - 0.708 kg CO2e/m3; water supply - 0.344 kg CO2e/m3., Natural Gas - 0,2845
+
+56

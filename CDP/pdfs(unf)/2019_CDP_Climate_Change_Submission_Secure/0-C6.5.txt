@@ -1,0 +1,38 @@
+Bank of America CDP Climate Change Questionnaire 2019 Tuesday, July 30, 2019 Ww DP
+
+DISCLOSURE INSIGHT ACTION
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+2,004,292
+
+Emissions calculation methodology
+Cradle-to-gate emissions from our purchased goods and services were calculated by aggregating our total spend data into standard vendor
+sector categories. The spend in each category is multiplied by sector-specific cradle-to-gate emission factors. Emissions factors are from U.K.
+Defra in Annex 13 of its "2012 Guidelines to Defra / DECC's GHG Conversion Factors for Company Reporting." GWPs are IPCC Second
+
+Assessment Report (SAR - 100 year).
+
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+
+Explanation
+
+Capital goods
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+397,794
+
+Emissions calculation methodology
+Cradle-to-gate emissions from our capital goods purchases were calculated by aggregating our total spend data into standard vendor sector
+categories. The spend in each category is multiplied by sector-specific cradle-to-gate emission factors. Emissions factors are from UK Defra in
+Annex 13 of its "2012 Guidelines to Defra / DECC's GHG Conversion Factors for Company Reporting." GWPs are IPCC Second Assessment
+
+Report (SAR - 100 year).
+
+81

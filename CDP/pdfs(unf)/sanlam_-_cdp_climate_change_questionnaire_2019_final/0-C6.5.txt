@@ -1,0 +1,37 @@
+WN
+Sanlam CDP Climate Change Questionnaire 2019 Tuesday, July 30, 2019 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining any exclusions.
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+639.65
+
+Emissions calculation methodology
+Consumption of office and policy paper
+Emission factors: Mondi Rotatrim Paper Profile and Sappi Typek Paper Profile - released August 2018 and March 2018 respectively indicating
+electricity usage and CO2 emissions per tonne of paper.
+Tonnes of paper purchased provided by the service providers were used to calculated emissions according to the GHG Protocol using the
+provided emission factors.
+
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+100
+
+Explanation
+
+Capital goods
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+Information of the production of capital goods (assets) purchased or acquired by the Group is not available.
+
+66

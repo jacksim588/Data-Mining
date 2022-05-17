@@ -1,0 +1,56 @@
+Arcadis CDP Climate Change Questionnaire 2020 22 August 2020 Ww DP
+
+DISCLOSURE INSIGHT ACTION
+
+Purchased goods and services
+
+Evaluation status
+Not relevant, explanation provided
+
+Please explain
+In 2015, we have performed a materiality of our entire value chain scope 3 sources for
+our Dutch OpCo. Examples of a few upstream emissions that were analyzed are:
+purchases of goods and services, capital goods, upstream transportation, and
+distribution, downstream we analyzed usage of our sold product (reports), end-of-life of
+sold products, investments, etc.
+Based on that analysis, our supplier purchases are material to Arcadis but the usage is
+limited. Our main purchase for goods and service is that of office paper. The usage of
+paper is considered immaterial as it was calculated to be less than 1% emission of our
+total footprint.
+Arcadis’ other OpCos have similar usage patterns, and therefore the results of this
+analyses can be extrapolated to other regions of Arcadis as the type of service we
+deliver is very similar.
+
+Capital goods
+
+Evaluation status
+Not relevant, explanation provided
+
+Please explain
+In 2015, we have performed a materiality of our entire value chain scope 3 sources for
+our Dutch OpCo. The purchase of capital goods for Arcadis Netherlands, and other
+regions is negligible as we often lease our office space.
+Based on that analysis our capital goods were considered immaterial. The results of this
+analyses can be extrapolated to other regions of Arcadis as the type of service we
+deliver is very similar.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+80
+
+Emissions calculation methodology
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard
+(Revised Edition) and WBCSD Corporate Value Chain (Scope 3) Accounting and
+Reporting Standard.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+60
+
+Please explain
+
+51

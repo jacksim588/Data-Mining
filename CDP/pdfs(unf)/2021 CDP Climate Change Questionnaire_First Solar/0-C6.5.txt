@@ -1,0 +1,57 @@
+WN
+First Solar Inc CDP Climate Change Questionnaire 2021 Wednesday, July 28, wy DP
+
+2021
+DISCLOSURE INSIGHT ACTION
+
+344,697
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+1,227,987
+
+Emissions calculation methodology
+Based on life cycle assessment of First Solar PV module production (Table III; DOI:
+10.1002/pip.1068) and total modules produced in 2020, and subtracting 2020 Scope 1
+and 2 emissions
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+25
+
+Please explain
+Bill of materials for PV module manufacturing from a previous year were the basis for
+the life cycle assessment combined with modules produced in 2020
+
+Capital goods
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+295,327
+
+Emissions calculation methodology
+Our capital expenditures are disclosed as 'purchases of property, plant, and equipment’
+in our annual report's consolidated cash flow statement. In alignment with the
+
+51

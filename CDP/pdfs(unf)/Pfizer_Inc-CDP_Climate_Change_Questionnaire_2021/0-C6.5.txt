@@ -1,0 +1,57 @@
+uN
+Pfizer Inc. CDP Climate Change Questionnaire 2021 Wednesday, July 28, 2021 wa D p
+
+DISCLOSURE INSIGHT ACTION
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+2,526,537
+
+Emissions calculation methodology
+Emissions calculated based on 2020 spend data. Spend data is extracted from Pfizer's
+accounting system by category (i.e., SAP and E1). Spend associated with purchased
+goods and services with an associated GHG footprint is segregated by product or
+service type and multiplied by the most appropriate emission factor to estimate
+emissions (CO2e). Spend not considered to have a significant Scope 3 GHG footprint
+(e.g., colleague wages, customer rebates, taxes, etc.) were excluded from the
+calculation. Two sets of emission factors were used: 1. emission factors estimated by an
+outside consultant (ERM) using average data-methodology which estimates emissions
+by collecting data on the mass (e.g. kilogram or pounds), or other relevant units of
+goods or services purchased and multiplying by the relevant secondary emission factors
+(e.g. industry average cradle-to-gate life cycle data for the production of products); and
+2. DEFRA 2011 Table 13 Emission Factors adjusted to 2020 for inflation.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Please explain
+Emission factor reference:
+1. External Consultant (ERM) estimated Emission Factors
+2. UK DEFRA Table 13:
+https://assets. publishing.service.gov.uk/government/uploads/system/uploads/attachmen
+t_data/file/404542/Table_13_Indirect_emissions_from_supply_chain_2007-2011.xls
+
+Capital goods
+
+Evaluation status
+Relevant, calculated
+
+35

@@ -1,0 +1,61 @@
+qN C
+Fortum Oyj CDP Climate Change Questionnaire 2021 27 July 2021 >» > b DP
+
+DISCLOSURE INSIGHT ACTION
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+49,043,800
+
+Comment
+
+As the majority owner of Uniper, Fortum has consolidated Uniper as a subsidiary as of
+31 March 2020. Sustainability indicators have been mainly consolidated as 75% of
+Uniper's total figures in 2020, except direct CO2 emissions and energy production
+volumes are consolidated as of 31 March 2020.
+
+Fortum's Scope 1 greenhouse gas emissions accounted for about 63% of total
+greenhouse gas emissions.
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+
+As the majority owner of Uniper, Fortum has consolidated Uniper as a subsidiary as of
+31 March 2020. Sustainability indicators have been mainly consolidated as 75% of
+Uniper's total figures in 2020, except direct CO2 emissions and energy production
+volumes are consolidated as of 31 March 2020.
+
+Fortum’s Scope 2 greenhouse gas emissions accounted for 1% of total greenhouse gas
+emissions.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+632,000
+
+Scope 2, market-based (if applicable)
+811,700
+
+Comment
+
+As the majority owner of Uniper, Fortum has consolidated Uniper as a subsidiary as of
+31 March 2020. Sustainability indicators have been mainly consolidated as 75% of
+
+55

@@ -1,0 +1,57 @@
+yt
+Illinois Tool Works Inc. CDP Climate Change Questionnaire 2019 Thursday, wy D Pp
+August 1, 2019
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+The total volumes and types of purchased goods and services are not collected at the
+enterprise level; we are not able to calculate the emissions related to this.
+
+Capital goods
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+The cost and categorization of all capital goods is not collected at the enterprise level;
+we are not able to calculate the emissions related to this.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+Fuel-and-energy-related activities not included in Scope 1 or 2 are not collected at the
+enterprise level; we are not able to calculate the actual emissions related to this. We
+are able to calculate Scope 3 related to employee travel and logistics.
+
+Upstream transportation and distribution
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+433,675
+
+Emissions calculation methodology
+We used the Quantis Scope 3 Evaluator to calculate this estimated value.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+100
+
+Explanation
+
+21

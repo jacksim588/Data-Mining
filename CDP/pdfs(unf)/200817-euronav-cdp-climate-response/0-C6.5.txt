@@ -1,0 +1,56 @@
+Euronav N.V. CDP Climate Change Questionnaire 2020 Thursday, August 13, Ww DP
+
+2020
+DISCLOSURE INSIGHT ACTION
+
+Explain why this source is excluded
+Emissions from these one-person offices are extremely immaterial in comparison to
+Euronav’s Scope 1 and 2 emissions. Total office emissions make up 0.029% of
+Euronav’s emissions, therefore these sources have no discernible impact on the final
+figures, and are not relevant to Euronav’s emissions disclosure.
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Not relevant, explanation provided
+
+Please explain
+The vast majority of purchased goods and services for Euronav is fuel, which is
+accounted for in ‘Fuel and energy related activities’.
+
+Capital goods
+
+Evaluation status
+Relevant, not yet calculated
+
+Please explain
+Euronav own 72 ships, production of which is not currently accounted for relating to
+emissions. This is something which Euronav are working on.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+613,773.11
+
+Emissions calculation methodology
+Using the activity data from our Scope 1 and 2 emissions, we applied relevant
+emissions factors from the latest conversion factor datasets available to calculate the
+emissions generated upstream through Well-to-Tank production, processing and
+delivery of fuel and Transmission and Distribution losses of electricity. To calculate the
+indirect emissions of our fuel consumption and business travel, we applied emission
+factors from the UK Government's GHG Conversion Factors for Company Reporting
+2019, published by DEFRA (Department for Environment, Food and Rural Affairs of
+UK). Upstream emissions arising from electricity consumption were calculated using
+country-specific DEFRA 2019 emission factors for the Well-to-Tank emissions and Well-
+to-Tank emissions associated with the Transmission and Distribution losses of getting
+electricity to the end user. The country breakdown of emissions factors for Transmission
+
+35

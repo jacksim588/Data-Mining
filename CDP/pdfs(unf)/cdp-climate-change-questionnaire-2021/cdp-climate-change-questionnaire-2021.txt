@@ -1,0 +1,74 @@
+Advanced Micro Devices, Inc - Climate Change 2021 : S CDP
+
+DISCLOSURE INSIGHT ACTION
+
+CO. Introduction
+
+ 
+
+CO.1
+
+ 
+
+(C0.1) Give a general description and introduction to your organization.
+
+AMD is a global semiconductor company that designs and delivers: x86 microprocessors for servers, notebooks, workstations, and desktop PCs and x86 microprocessors
+with integrated graphics for notebook and desktop PCs; Graphics processing units (GPUs) for notebooks, desktop PCs, workstations, and the data center; and Embedded
+and semi-custom processors for game consoles, displays, thin clients, storage systems, and more.
+
+Founded in 1969 as a Silicon Valley start-up, the AMD journey began with dozens of employees focused on leading-edge semiconductor products. From those modest
+beginnings, AMD has grown into a global company achieving many important industry firsts along the way. We are proud of our culture of bold technology bets, ambitious
+product roadmaps, deep partnerships, and excellence in execution. We operate in over 35 locations worldwide (https://www.amd.com/en/corporate/locations), including
+engineering facilities, sales and business service sites, and corporate offices.
+
+C0.2
+
+ 
+
+(C0.2) State the start and end date of the year for which you are reporting data.
+
+|] Start date End date Indicate if you are providing emissions data for past reporting Select the number of past reporting years you will be providing emissions data
+years for
+
+ 
+
+Reporting January 1 December 31 No <Not Applicable>
+year 2020 2020
+C0.3
+
+ 
+
+(C0.3) Select the countries/areas for which you will be supplying data.
+Canada
+China
+India
+Singapore
+United States of America
+
+CO.4
+
+ 
+
+(C0.4) Select the currency used for all financial information disclosed throughout your response.
+USD
+
+C0.5
+
+ 
+
+(C0.5) Select the option that describes the reporting boundary for which climate-related impacts on your business are being reported. Note that this option should
+align with your chosen approach for consolidating your GHG inventory.
+Operational control
+
+C1. Governance
+
+ 
+
+C1.1
+
+(C1.1) Is there board-level oversight of climate-related issues within your organization?
+Yes
+
+Ci.1a
+
+CDP Page 1 of 32

@@ -1,0 +1,52 @@
+yN C
+Great-West Lifeco Inc. CDP Climate Change Questionnaire 2020 Wednesday, >» > b D Pp
+
+August 26, 2020
+
+DISCLOSURE INSIGHT ACTION
+Comment
+
+Scope 2 (market-based)
+
+Base year start
+January 1, 2013
+
+Base year end
+December 31, 2013
+
+Base year emissions (metric tons CO2e)
+41,284.98
+
+Comment
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+19,386.75
+
+Comment
+
+C6.2
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+
+48

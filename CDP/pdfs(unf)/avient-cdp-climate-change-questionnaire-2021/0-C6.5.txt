@@ -1,0 +1,51 @@
+WN
+Avient CDP Climate Change Questionnaire 2021 Tuesday, August 3, 2021 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+1,042,871
+
+Emissions calculation methodology
+Pounds of purchased polymers broken out by polymer type as well as carbon black data
+were obtained. Emissions for polymers and carbon black were calculated using
+emission factors from a variety of sources including ELCD, DEFRA, and US-EIl 2.2 as
+well as IPCC's AR5 GWP. Other purchased goods and services were calculated based
+on spend information utilizing emission factors from CEDA.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Please explain
+
+Capital goods
+
+Evaluation status
+Not relevant, explanation provided
+
+Please explain
+This Scope 3 category does not meet any of the criteria (size, influence, risk,
+stakeholders, outsourcing, etc.) deemed as relevant under the WRI / WBCSD
+"Corporate Value Chain (Scope 3) Accounting & Reporting Standard" criteria of "sector
+guidance" as defined in Table 6.1 based on Avient's review of operations.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+4,941
+
+Emissions calculation methodology
+Avient utilizes our Scope 2 emissions and applies a regional transmission and
+distribution loss % to calculate this value. T&D loss percentages for the USA are by
+state and come from the EPA's "Power Profiler ZIP Code Tool with eGRID2018 Data"
+version 9.0. Factors for the rest of the world come from the World Bank Table 5.11
+"World Development Indicators: Power and communication" (2014 data).
+
+56

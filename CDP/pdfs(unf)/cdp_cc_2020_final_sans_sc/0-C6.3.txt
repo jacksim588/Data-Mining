@@ -1,0 +1,58 @@
+WN
+Saint-Gobain CDP Climate Change Questionnaire 2020 Monday, July 27, 2020 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We have operations where we are able to access electricity supplier emission factors or
+residual emissions factors, but are unable to report a Scope 2, market-based figure
+
+Comment
+We use a market-based approach only for purchased green electricity whenever we
+have a Renewable Energy Certificate.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+2,707,306
+
+Comment
+Our scope 2 emissions are mainly linked to the consumption of electricity and steam.
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+11,379,853
+
+Emissions calculation methodology
+Activity data come from the strategical raw materials of the Group. It also includes
+goods purchased by the Distribution. Emission factors are the most reliable ones known
+for consideration at worldwide level.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+
+51

@@ -1,0 +1,55 @@
+WN
+Norfolk Southern Corp. CDP Climate Change Questionnaire 2019 Wednesday, wy D Pp
+
+July 31, 2019
+
+DISCLOSURE INSIGHT ACTION
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+NS 2018 Scope 1 emissions were 4,930,129.64 Metric Tonnes CO2e.
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+NS calculated Scope 2 emissions using the USEPA's eGrid. Due to the lack of
+information on the residual mix factors in the United States, there is no difference in
+Scope 2 emissions using the Location and Market-based methods.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+196,154.62
+
+Scope 2, market-based (if applicable)
+196,154.62
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+NS 2018 Scope 2 emissions were 196,154.621 Metric Tonnes CO2e.
+
+29

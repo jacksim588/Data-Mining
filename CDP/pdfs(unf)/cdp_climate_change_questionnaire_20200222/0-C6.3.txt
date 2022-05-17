@@ -1,0 +1,55 @@
+FORD OTOMOTIV SANAY!I A.S. CDP Climate Change Questionnaire 2020 Ww DP
+
+Wednesday, August 26, 2020
+DISCLOSURE INSIGHT ACTION
+
+Comment
+We don't have any source of market-based scope 2 emissions. Location-based scope 2
+emissions are generated from purchased and consumed electricity from National
+Electricity Interconnected System.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+123,359
+
+Comment
+This figure represents the purchased electricity from National Electricity Interconnected
+System.
+There is no any source of market-based scope 2 emissions.
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+338.82
+
+Emissions calculation methodology
+The quantis scope 3 evaluator (https://quantis-suite.com/Scope-3-Evaluator/ ) was used
+to calculate the GHG emissions of purchased goods and services bought in 2019.
+The amount of money (in basic price) spent on product or service during the specified
+time was entered in the system.
+Calculations were fulfilled by using billed cost of purchased goods and services as
+activity data.
+
+76

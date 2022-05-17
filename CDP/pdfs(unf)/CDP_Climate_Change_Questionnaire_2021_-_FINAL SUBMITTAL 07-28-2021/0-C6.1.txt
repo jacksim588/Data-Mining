@@ -1,0 +1,56 @@
+yN C
+CSX Corporation CDP Climate Change Questionnaire 2021 Wednesday, July 28, >» > b DP
+
+2021
+
+DISCLOSURE INSIGHT ACTION
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+3,815,524
+
+Comment
+2020 gross global Scope 1 emissions were independently verified.
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+CSX’s Scope 2 location-based CO2, N20, and CH4 emissions from electricity are
+quantified by multiplying the annual electricity usage by average emission rates.
+
+Annual electricity usage (in kilowatt hour [KWH)]) and total annual spend on electricity
+are obtained from a service provider hired by CSX to manage utilities. The electricity
+usage data provided by this service provider includes all CSX companies. Emissions
+factors for U.S. locations are obtained from U.S. EPA’s Emissions Generation Resource
+Integrated Database (eGRID2019). The market-based emission factors are obtained
+from Green-e Energy Residual Mix Emissions Rates (2020). In 2020, CSX procured
+Renewable Energy Certificates (RECs) for approximately 10% of its electricity usage.
+These RECs were allocated evenly across the network in the U.S. and accounted for in
+the market-based calculation. The Canadian GHG intensities are obtained from
+Environment Canada, 2020 Greenhouse Gas Emissions Intensity for the national level.
+Scope 2 location-based emissions were independently verified.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+185,216
+
+Scope 2, market-based (if applicable)
+145,420
+
+46

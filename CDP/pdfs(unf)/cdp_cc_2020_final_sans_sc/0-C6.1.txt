@@ -1,0 +1,51 @@
+WN
+Saint-Gobain CDP Climate Change Questionnaire 2020 Monday, July 27, 2020 wy D Pp
+
+DISCLOSURE INSIGHT ACTION
+
+Comment
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+Bilan Carbone
+European Union Emission Trading System (EU ETS): The Monitoring and Reporting Regulation
+(MMR) — General guidance for installations
+IEA CO2 Emissions from Fuel Combustion
+IPCC Guidelines for National Greenhouse Gas Inventories, 2006
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+Other, please specify
+see next question
+
+C5.2a
+
+(C5.2a) Provide details of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+For our reporting we are following the recommendations given by the GRI G4.
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+8,051,569
+
+Comment
+Our scope 1 emissions are linked to the energy use as well as the consumption of
+carbonated raw materials.
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+
+50

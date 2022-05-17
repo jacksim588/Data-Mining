@@ -1,0 +1,56 @@
+yN C
+Weir Group CDP Climate Change Questionnaire 2019 Tuesday, October 1, 2019 >» > b DP
+
+C6.3
+
+DISCLOSURE INSIGHT ACTION
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+103,493
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+Please see note on page 66 of our 2018 Annual Report. We acquired ESCO in the
+second half of 2018. ESCO divisions estimated Scope 1 and 2 GHG emissions are
+38212 tCO2e for the period July to Dec 2018. We have not included the ESCO division
+within our 2018 reporting due as per our GHG Inventory Management Plan, which
+states new acquisitions will be accounted from the first full financial period onwards; this
+approach is in line with GHG Protocol principles.
+
+Past year 1
+
+C6.4
+
+Scope 2, location-based
+107,869
+
+Start date
+January 1, 2017
+
+End date
+December 31, 2017
+
+Comment
+Please see note on page 66 of our annual report. Annual emissions figures for 2017
+have been restated to reflect the collation of more accurate consumption data and the
+correction of emissions factors . The need to restate was identified in our annual review
+process.
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+Yes
+
+60

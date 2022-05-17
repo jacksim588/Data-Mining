@@ -1,0 +1,54 @@
+commer WW C
+ASELSAN ELEKTRONIK SANAYi VE TICARET A.S. CDP Climate Change >» > b DP
+
+Questionnaire 2019 Tuesday, July 23, 2019
+
+DISCLOSURE INSIGHT ACTION
+
+Comment
+Only location-based result has been used, there is no market based figure.
+
+Scope 2 (market-based)
+
+Base year start
+January 1, 2016
+
+Base year end
+December 31, 2016
+
+Base year emissions (metric tons CO2e)
+
+Comment
+There is no market- based figure.
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate Scope 1 and Scope 2 emissions.
+IPCC Guidelines for National Greenhouse Gas Inventories, 2006
+ISO 14064-1
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+10,737.51
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+The data covers the ghg emissions of all the facilities located in Ankara and Istanbul.
+
+53

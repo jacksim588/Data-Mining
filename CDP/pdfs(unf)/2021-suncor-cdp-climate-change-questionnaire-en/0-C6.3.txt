@@ -1,0 +1,51 @@
+yt
+Suncor Energy Inc. CDP Climate Change Questionnaire 2021 Thursday, July 29, wy DP
+
+2021
+
+DISCLOSURE INSIGHT ACTION
+
+Start date
+End date
+
+Comment
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+Scope 2 includes emissions from energy purchased or acquired and consumed by the
+reporting company. It includes the emissions from purchase electricity, steam, heat and
+cooling. Scope 2 emission are considered an indirect emissions source (along with
+Scope 3), because the emissions are a consequence of activities of the reporting
+organization but actually occur at sources owned or controlled by another organization
+(i.e. an electricity generator or utility).
+
+In 2020, Suncor location-based Scope 2 emissions are calculated based on generic
+emission factors (i.e. grid electricity emission factor, natural gas boiler steam generation
+emission factor, and chilled water emission factor). Suncor market-based Scope 2
+emissions are calculated by using supplier-specific emission factors for purchased
+commodity, or determined by developing facility-specific methodology.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+1,290,990
+
+Scope 2, market-based (if applicable)
+1,226,367
+
+52

@@ -1,0 +1,33 @@
+yN
+ICL CDP Climate Change Questionnaire 2019 Tuesday, August 27, 2019 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+Comment
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+
+Scope 2, location-based
+950,954
+
+Scope 2, market-based (if applicable)
+952,040
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1 and Scope 2 emissions that are
+within your selected reporting boundary which are not included in your disclosure?
+Yes
+
+50

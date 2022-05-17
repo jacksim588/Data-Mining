@@ -1,0 +1,55 @@
+uN
+Owens Coming CDP Climate Change Questionnaire 2020 Wednesday, August wy ( D p
+
+26, 2020
+DISCLOSURE INSIGHT ACTION
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+Owens Corning is committed to following the GHG Protocol Scope 2 Guidance and
+reports market-based Scope 2 emissions gathered from utilities by Schneider Electric,
+along with location-based Scope 2 emissions. Owens Corning's GHG emissions were
+verified by SCS Global Services in 2019.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+1,427,149
+
+Scope 2, market-based (if applicable)
+922,883
+
+Start date
+January 1, 2019
+
+End date
+December 31, 2019
+
+Comment
+
+Past year 1
+
+Scope 2, location-based
+1,516,124
+
+Scope 2, market-based (if applicable)
+950,844
+
+Start date
+January 1, 2018
+
+56

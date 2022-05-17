@@ -1,0 +1,55 @@
+>
+Air Products & Chemicals, Inc. CDP Climate Change Questionnaire 2019 wy DP
+Wednesday, July 31, 2019
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+The principal raw materials for making atmospheric gases and hydrogen are air, energy
+as electricity or steam, and natural gas. The amount of natural gas consumed as a
+feedstock is considered company confidential, therefore Scope 3 emissions related to
+purchased goods and services are not disclosed.
+
+Capital goods
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+Air Products' equipment is sold worldwide to customers in a variety of industries,
+including chemical and petrochemical manufacturing, oil and gas recovery and
+processing, and steel and primary metals processing. While we expect that Scope 3
+emissions related to the materials used to make this equipment may be relevant, the
+emissions cannot be reliably estimated.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+4,000,000
+
+Emissions calculation methodology
+The amount of fuel was determined primarily from invoice-quality data. The consumption
+quantities were grouped based on the region of consumption. Cradle-to-gate emissions
+factors for the production of each fuel type were obtained from life-cycle assessment
+databases. For each fuel type, the amount consumed was multiplied by the fuel’s
+cradle-to-gate emissions factor specific to the respective regions to calculate the
+individual emissions that were subsequently summed to the total emissions amount. For
+electricity consumption, the fuel types and the amount of each were determined based
+on regional grid mixes, heat rates for respective fuel-type power plants and heating
+value of fuel types. Fuel for electricity was adjusted to account for the transmission and
+distribution losses for the regions as per data from World Development Indicators.
+
+39

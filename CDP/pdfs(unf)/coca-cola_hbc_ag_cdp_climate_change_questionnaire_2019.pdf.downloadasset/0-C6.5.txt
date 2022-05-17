@@ -1,0 +1,58 @@
+yN
+Coca-Cola HBC AG CDP Climate Change Questionnaire 2019 Friday, August 30, wy DP
+
+2019
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+2,374,604.83
+
+Emissions calculation methodology
+In calculation included are: Ingredients and Pack materials (including secondary
+packaging) purchased for all our operations. We multiply the quantity of purchased
+material by the respective ingredients/packaging GHG emissions factor. We use
+Ecoinvent Database, also for some of the factors we use IFEU LCA assigned by The
+Coca- Cola Company. For Tetrapak material we use supplier database for calculating of
+the CO2 factor.In 2018 we started including also emissions from Juice concentrates.
+Baseline year 2010 and also 2015, 2016 and 2017 years have been recalculated.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+50
+
+Explanation
+LCA is performed for most of the packaging materials. For Tetrapak material GHG factor
+we use supplier database
+
+Capital goods
+
+Evaluation status
+Not relevant, explanation provided
+
+Explanation
+Capital equipment includes many mainly metallic vessels, pipework and automated
+packaging solutions. Unitary GHG data from equipment manufacturers is not available
+for the time being. We evaluated it and our high level calculations showed that this
+category is below the threshold for reporting of Scope 3 emissions therefore we do not
+report it in 2018. We plan to re-evaluate this in the coming years.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+8,856.75
+
+50

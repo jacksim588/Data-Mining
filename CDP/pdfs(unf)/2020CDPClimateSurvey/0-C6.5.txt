@@ -1,0 +1,54 @@
+American Electric Power Company, Inc. CDP Climate Change Questionnaire 2020 Ww DP
+Wednesday, August 26, 2020
+
+DISCLOSURE INSIGHT ACTION
+
+C6.4a
+
+(C6.4a) Provide details of the sources of Scope 1 and Scope 2 emissions that are
+within your selected reporting boundary which are not included in your disclosure.
+
+Source
+Kerosene fueled torpedo heaters (mobile)
+
+Relevance of Scope 1 emissions from this source
+Emissions are not relevant
+
+Relevance of location-based Scope 2 emissions from this source
+Emissions are not relevant
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+Emissions are not relevant
+
+Explain why this source is excluded
+EPA's 40 CFR Part 98 does not require that CO2e emissions be reported for mobile
+torpedo heaters. AEP emissions for these sources have been estimated at less than
+2,000 metric tons.
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+975,414
+
+Emissions calculation methodology
+Quality of major consumables used in the generation of electricity entered into CDP
+calculation spreadsheets and raw material production emission rates from value chain
+partners.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Please explain
+Key power generation consumables data is available. In discussions with the purchasing
+department, it was determined that AEP does not currently have a way to collect
+
+32

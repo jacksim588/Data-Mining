@@ -1,0 +1,51 @@
+1N
+L Brands, Inc. CDP Climate Change Questionnaire 2021 Wednesday, July 28, > > be ( D p
+
+2021
+
+DISCLOSURE INSIGHT ACTION
+
+Comment
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+We are reporting a Scope 2, market-based figure for the second time in this submission.
+Residual mix figures were used for locations in the United States, Great Britain, and
+Ireland. All other locations continued to use the location-based data. The source used
+for market-based reporting is 2020 Green-e® Residual Mix Emissions Rates (2018
+Data) for the United States and The Association of Issuing Bodies (AIB) European
+Residual Mixes 2019 version 1.0 (2020-05-29) for Great Britain and Ireland.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+188,434
+
+Scope 2, market-based (if applicable)
+140,383
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+21

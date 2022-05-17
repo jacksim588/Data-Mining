@@ -1,0 +1,35 @@
+WN
+CEMEX CDP Climate Change Questionnaire 2021 Monday, July 26, 2021 wad DP
+
+DISCLOSURE INSIGHT ACTION
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+
+Scope 2, location-based
+3,488,211
+
+Scope 2, market-based (if applicable)
+3,436,595.3
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1 and Scope 2 emissions that are
+within your selected reporting boundary which are not included in your disclosure?
+Yes
+
+C6.4a
+
+(C6.4a) Provide details of the sources of Scope 1 and Scope 2 emissions that are within your selected reporting boundary which are
+not included in your disclosure.
+
+76

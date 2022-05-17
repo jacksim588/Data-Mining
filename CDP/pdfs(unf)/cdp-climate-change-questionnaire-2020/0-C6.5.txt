@@ -1,0 +1,56 @@
+WN
+Kumba lron Ore CDP Climate Change Questionnaire 2020 Wednesday, January wy DP
+
+20, 2021
+
+DISCLOSURE INSIGHT ACTION
+
+No emissions from this source
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+No emissions from this source
+
+Explain why this source is excluded
+The small corporate office is excluded from the reporting boundary due to low energy
+usage at that office. Its emissions are deemed negligible compared to the overall carbon
+footprint of Kumba. Energy data for offices situated at our Sishen and Kolomela mines is
+included in the disclosure.
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Not relevant, calculated
+
+Metric tonnes CO2e
+151,202
+
+Emissions calculation methodology
+Kumba identified its top four purchased goods by operational spend. These goods were
+explosives, steel, tyres and cement. Activity data: Supplier invoices were used to obtain
+the total mass in tonnes of each purchased good used in the reporting year. Emissions
+factors: The emission factors for other indirect emissions and their respective sources
+are: Explosives: 2.51 tCOQ2e/tonne product (CCaLC Tool Manual (V1.1) Carbon
+Calculations over the Life Cycle of Industrial Activities (page 178)). Steel: 1.9
+tCO2e/tonne product (Greenhouse Gas Abatement in Energy Intensive Industries, page
+5, Integrated steel mill average). Tyres: 1.09 tCO2e/tonne (Michelin Annual Report -
+2015 Performance, Pg101). Cement: 0.853 tCO2e/tonne product (Pretoria Portland
+Cement 2018 Integrated Annual Report Pg 115). GWP values: Carbon dioxide = 1.
+Methodology: The mass of each purchased good was multiplied by the emission factor
+associated with extraction and production of that good. Calculations were performed in
+accordance with ISO 14064 Part 1 and The Greenhouse Gas Protocol: Corporate Value
+Chain (Scope 3) Accounting and Reporting Standard. Assumptions: No assumptions
+were made in the calculation of the emissions in this category. Allocation methods:
+Financial control approach.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+100
+
+Please explain
+
+50

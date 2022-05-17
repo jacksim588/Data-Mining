@@ -1,0 +1,39 @@
+uN
+MTR Corporation Limited CDP Climate Change Questionnaire 2020 Thursday, December 10, 2020 wy ( D p
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+10,165
+
+Emissions calculation methodology
+Emissions from office paper use and disposal are calculated based on the "Guidelines to Account for and Report on Greenhouse Gas
+Emissions and Removals for Buildings (Commercial, Residential or Institutional Purposes) in Hong Kong (2010 Edition), by Electrical and
+Mechanical Services Department and Environmental Protection Department, Hong Kong".
+
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+10
+
+Please explain
+It is estimated that less than 10% emissions data was obtained from suppliers. We have engaged a Consultant to review our emissions data in
+our value chain.
+
+Capital goods
+
+Evaluation status
+Relevant, not yet calculated
+
+Please explain
+Due to businesses operation, we purchase a large amount of goods for railway operations, new lines construction and services, etc. but the
+embodied carbon is unavailable. Hence, we have focused on office paper use in accordance with Hong Kong GHG reporting guideline
+
+70

@@ -1,0 +1,55 @@
+WN
+Ecolab Inc. CDP Climate Change Questionnaire 2019 Wednesday, July 24, 2019 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+6,792,970
+
+Emissions calculation methodology
+Ecolab has used Environmentally Extended Economic Input Output (EEIO) analysis for
+a portion of its annual supplier and procurement spend data. This is a categorization
+model to convert $USD spend based on relevant NAICS sector categories into carbon
+emissions associated with the extraction, production and transport of purchased goods
+and services acquired or purchased by Ecolab in the reported year. We have evaluated
+100% of the spend in our three most material supplier categories: Raw Material
+Chemical suppliers, Packaging suppliers and Equipment suppliers. For each, we have
+incorporated 100% of the global spend data for 2018 and years prior to enable year-on-
+year comparison). In total, this represents more than 50% of our total global supplier
+spend and corresponding Purchased Goods and Services related emissions.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Explanation
+Through this analysis we estimate that this component of our supply chain has a carbon
+footprint that is 10 times the size of our own scope 1 & 2 combined footprint. We will
+continue to expand the number and scope of suppliers that we evaluate, report and
+
+5A

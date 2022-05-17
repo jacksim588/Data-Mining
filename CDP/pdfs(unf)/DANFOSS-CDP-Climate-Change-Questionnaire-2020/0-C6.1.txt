@@ -1,0 +1,45 @@
+DANFOSS CDP Climate Change Questionnaire 2020 Tuesday, August 25, 2020
+
+Base year end
+December 31, 2007
+
+Base year emissions (metric tons CO2e)
+137,357
+
+Comment
+Changed from 140,478 due to recalculation of baseline.
+
+Scope 2 (market-based)
+
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+
+Comment
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+29,211
+
+Comment
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+Classified as Business

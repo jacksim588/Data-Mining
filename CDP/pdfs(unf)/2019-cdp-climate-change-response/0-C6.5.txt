@@ -1,0 +1,39 @@
+yN
+The Coca-Cola Company CDP Climate Change Questionnaire 2019 Wednesday, July 31, 2019 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+Source
+Indirect emissions from warehouses and offices due to use of electricity/neat/steam
+
+Relevance of Scope 1 emissions from this source
+No emissions excluded
+
+Relevance of location-based Scope 2 emissions from this source
+Emissions are not relevant
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+Emissions are not relevant
+
+Explain why this source is excluded
+Under materiality threshold
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+24,580,947
+
+Emissions calculation methodology
+Our calculations include key packaging and ingredient materials, including PET bottles, closures, and labels, aluminum and steel cans and can-
+ends, as well as glass bottles and crowns, sweeteners (including sugar), Carbon dioxide for carbonation, and other key agricultural ingredients.
+
+74
+
+Classified - Confidential

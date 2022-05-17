@@ -1,0 +1,36 @@
+WN
+Sanlam CDP Climate Change Questionnaire 2019 Tuesday, July 30, 2019 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+Base year emissions (metric tons CO2e)
+46,116.66
+
+Comment
+No instruments purchased during 2014.
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate Scope 1 and
+Scope 2 emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+162.86
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+
+63

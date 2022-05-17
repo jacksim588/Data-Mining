@@ -1,0 +1,34 @@
+Bank of America CDP Climate Change Questionnaire 2019 Tuesday, July 30, 2019 ane ( DP
+
+DISCLOSURE INSIGHT ACTION
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+85,145
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+
+C6.2
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+
+79

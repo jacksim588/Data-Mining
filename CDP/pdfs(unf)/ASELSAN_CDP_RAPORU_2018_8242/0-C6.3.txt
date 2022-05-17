@@ -1,0 +1,57 @@
+commer WW C
+ASELSAN ELEKTRONIK SANAYi VE TICARET A.S. CDP Climate Change >» > b DP
+
+Questionnaire 2019 Tuesday, July 23, 2019
+
+DISCLOSURE INSIGHT ACTION
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We have no operations where we are able to access electricity supplier emission factors
+or residual emissions factors and are unable to report a Scope 2, market-based figure
+
+Comment
+In ASELSAN, only the electricity purchased from National Interconnected System Grid is
+consumed.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+37,662.62
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+This figure represents the purchased electricity from National Interconnected System
+ASELSAN do not have any source of market based scope 2 emissions.
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+Yes
+
+C6.4a
+
+(C6.4a) Provide details of the sources of Scope 1 and Scope 2 emissions that are
+within your selected reporting boundary which are not included in your disclosure.
+
+5A

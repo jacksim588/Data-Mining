@@ -1,0 +1,61 @@
+| _ yt
+The Clorox Company CDP Climate Change Questionnaire 2020 wy DP
+
+C6.2
+
+DISCLOSURE INSIGHT ACTION
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+C6.3
+
+Scope 2, location-based
+
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+
+We have no operations where we are able to access electricity supplier emission factors
+or residual emissions factors and are unable to report a Scope 2, market-based figure
+
+Comment
+
+We continued efforts in 2019 to collect Scope 2 emissions in the U.S. using the market-
+based method as stipulated by the GHG Protocol; however, we were unable to obtain
+any contractual instruments or supplier specific emission rates, and residual mix factors
+were not available for the markets in which Clorox operates. The impact of our Fairfield,
+CA solar generation was immaterial to our overall consumption and retired RECS were
+not available and as a result, our 2019 market-based Scope 2 emissions are identical to
+our location-based emissions.
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+
+CO2e?
+
+Re porting year
+
+Scope 2, location-based
+
+170,370
+
+Comment
+
+Scope 2 emissions are defined as Clorox's indirect emissions from purchased electricity,
+heat and steam. 55 percent of our combined manufacturing and distribution GHG
+footprint is from indirect electricity use at our manufacturing plants, distribution centers
+and corporate office buildings. Our GHG calculations consider both the amount of
+electricity drawn as well as the source of that electricity (coal, gas or other types of
+power plant fuels). Regional electric power emission factors (eGRID data) were used to
+compute indirect emissions. This conforms to the U.S. EPA Protocol and is consistent
+with the location-based method of the GHG Protocol. We updated our baseline 2018
+and use the location-based method for our goal setting and progress reporting.
+
+We continued efforts in 2019 to collect Scope 2 emissions in the U.S. using the market-
+based method as stipulated by the GHG Protocol; however, we were unable to obtain
+any contractual instruments or supplier specific emission rates, and residual mix factors
+were not available for the markets in which Clorox operates. The impact of our Fairfield,
+CA solar generation was immaterial to our overall consumption and retired RECS were
+not available and as a result, our 2019 market-based Scope 2 emissions are identical to
+our location-based emissions.
+
+61

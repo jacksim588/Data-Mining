@@ -1,0 +1,54 @@
+BASF SE CDP Climate Change Questionnaire 2021 Ww DP
+
+DISCLOSURE INSIGHT ACTION
+
+We do not report CO2 emissions from mobile combustion since their contribution to
+BASF’s total GHG emissions is not significant (less than 0.1 % of BASF’s total GHG
+emissions).
+
+Source
+CO2 emissions from administrative sites/offices (e.g. sales offices)
+
+Relevance of Scope 1 emissions from this source
+Emissions are not relevant
+
+Relevance of location-based Scope 2 emissions from this source
+Emissions are not relevant
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+Emissions are not relevant
+
+Explain why this source is excluded
+BASF reports GHG emissions only for its production facilities. GHG emission data from
+other facilities such as sales offices are not collected since their contribution to BASF’s
+total GHG emissions was extrapolated to be less than 1%, which we consider to be
+insignificant. We periodically reassess the contribution from our administrative sites.
+GHG emissions from assets leased by BASF are accounted for as Scope 3 emissions.
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+47,753,000
+
+Emissions calculation methodology
+(i) Activity data: Quantity and monetary purchasing volume of the goods and services
+purchased in the reporting year were obtained from BASF internal business data
+management systems. (ii) Emissions factors: Cradle-to-gate emissions factors were
+obtained from commercially and publicly available data sources such as GaBi (sphera),
+ecoinvent and PlasticsEurope as well as from BASF’s own LCA database, which is
+based mainly on primary data. Supply chain emission factors for technical goods and
+services were obtained from the 2012 Guidelines to DEFRA/DECC’s GHG Conversion
+Factors for Company Reporting, Annex 13. (iii) GWP values: GWP values referring to
+the time horizon of 100 years were taken from IPCC, ARS, 2013. (iv) Methodology &
+assumptions: We analyzed the GHG emissions of our procured raw materials and
+precursor manufacturing at BASF’s suppliers’ facilities (including merchandise) by
+
+61

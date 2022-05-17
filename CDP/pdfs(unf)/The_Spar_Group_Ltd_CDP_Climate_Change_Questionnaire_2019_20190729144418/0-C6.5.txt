@@ -1,0 +1,59 @@
+WN
+The Spar Group Ltd CDP Climate Change Questionnaire 2019 Monday, July 29, wy DP
+
+2019
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+193
+
+Emissions calculation methodology
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Explanation
+Purchased goods and services specifically, emissions from water supply and water
+treatment.
+
+Capital goods
+
+Evaluation status
+Not relevant, explanation provided
+
+Explanation
+Capital goods are limited in our industry. We periodically purchase new vehicles and
+office equipment, but upstream emissions associated with these goods are estimated to
+be very small and therefore are not relevant.
+
+ 
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+2,174
+
+Emissions calculation methodology
+GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard.
+DEFRA Emission factors.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+52

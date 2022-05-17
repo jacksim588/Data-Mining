@@ -1,0 +1,36 @@
+uN
+Core Laboratories N.V. CDP Climate Change Questionnaire 2020 Wednesday, August 26, 2020 wy ( D p
+
+DISCLOSURE INSIGHT ACTION
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+4,795
+
+Start date
+January 1, 2019
+
+End date
+December 31, 2019
+
+Comment
+Core Laboratories N.V. assesses its operational and value chain greenhouse gas (GHG) emissions in line with the WRI/WBCSD Corporate
+Standard (Scope 1 and 2) Guidelines. In FY2019, Core Lab emitted 46,821 tCO2e of GHG emissions throughout its value chain. This
+represents a decrease of 6% over 2018 emissions. During this same year the revenue increased by 42% and number of full-time employees
+(FTEs) decreased by 8%. Scope 1 emissions have increased slightly due to an increase in fugitive emissions from refrigerant use, while overall
+combined GHG emissions for scope 1 & 2 (location based) has decreased by 3%. The total operational GHG emissions (scope 1 and 2
+location-based) for FY2019 are 15,176 tCO2e, approximately 57% of which is from the six ATCs. Scope 1 emissions contribute 32% of Scope
+1 & 2, comprising 10% from vehicle fuel use, 13% from refrigerants (fugitive emissions) and remaining 9% from natural gas heating. While
+refrigerants increased between 2018 to 2019 from 1,259 tCO2e to 1,917 tCO2e, due to the mechanical failure of a large chiller unit in the United
+States, Natural gas heating (stationary energy) reduced from 1,677 tCO2e to 1,357 tCO2e, and Vehicle fuel use (mobile transport reduced from
+1,605 tCO2e to 1,520 tCO2e. Looking forward to 2020 without the increase from refrigerants, and the current crude oil market downturn in
+activity along with business disruptions from the COVID-19 pandemic, we expect Scope 1 emissions to be lower significantly.
+
+Past year 1

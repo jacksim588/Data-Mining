@@ -1,0 +1,54 @@
+GRIFOLS CDP Climate Change Questionnaire 2019 Monday, August 5, 2019 Ww DP
+
+DISCLOSURE INSIGHT ACTION
+
+Scope 1 and 2 emissions are not significant. Scope 3 is considered due to business
+trips.
+
+Source
+Home Address USA
+
+Relevance of Scope 1 emissions from this source
+No emissions from this source
+
+Relevance of location-based Scope 2 emissions from this source
+Emissions are not relevant
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+Emissions are not relevant
+
+Explain why this source is excluded
+Scope 1 and 2 emissions are not significant. Scope 3 is considered due to business
+trips.
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+36,230.7
+
+Emissions calculation methodology
+We have used the Life Cycle Assessment Methodology. We have calculated emissions
+in production of glass and plastic that is the packaging of some of our final products: We
+know the electricity consumption of packaging of 100 ml and 500 ml of PP and glass
+material. We have the total units of production of PP and glass but not their
+corresponding volume, so we have estimated that all units have 100 ml excepting those
+ones that we are sure are 500 ml.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Explanation
+Grifols uses several raw materials from all over the world. So far we have only
+calculated emissions related to primary packaging lifecycle, specifically glass vials and
+plastic bags and bottles. It is included the packaging of all manufacturing plants.
+
+41

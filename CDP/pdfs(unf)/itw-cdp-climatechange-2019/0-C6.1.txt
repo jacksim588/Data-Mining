@@ -1,0 +1,51 @@
+yt
+Illinois Tool Works Inc. CDP Climate Change Questionnaire 2019 Thursday, wy D Pp
+
+August 1, 2019
+DISCLOSURE INSIGHT ACTION
+
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+134,118
+
+Start date
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+Approximately 8% of the Scope 2 emissions are estimated to eliminate gaps in the
+reporting. The estimated values are based on the average use of electricity from the
+facilities.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year

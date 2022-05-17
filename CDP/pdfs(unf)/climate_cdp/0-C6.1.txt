@@ -1,0 +1,56 @@
+WN
+Continental AG CDP Climate Change Questionnaire 2021 Wednesday, July 28, wy DP
+
+2021
+
+DISCLOSURE INSIGHT ACTION
+
+Base year start
+January 1, 2020
+
+Base year end
+December 31, 2020
+
+Base year emissions (metric tons CO2e)
+210,000
+
+Comment
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+780,000
+
+Start date
+January 1, 2020
+
+End date
+December 31, 2020
+
+Comment
+
+Past year 1
+
+Gross global Scope 1 emissions (metric tons CO2e)
+840,000
+
+Start date
+January 1, 2019
+
+End date
+
+42

@@ -1,0 +1,77 @@
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+25
+
+Start date
+February 1 2019
+
+End date
+January 31 2020
+
+Comment
+Splunk began tracking its GHG emissions in FY20 (Feb 1, 2019 to Jan 31, 2020) - we are in the process of collecting our FY21 data and will report after the CDP Climate
+questionnaire assessment is due, therefore we are only reporting a single year of data. Scope 1 includes estimations on emissions from the use of refrigerants in AC
+equipment in offices.
+
+Past year 1
+Gross global Scope 1 emissions (metric tons CO2e)
+Start date
+End date
+
+Comment
+Splunk began tracking its GHG emissions in FY20 (Feb 1, 2019 to Jan 31, 2020) - we are in the process of collecting our FY21 data and will report after the CDP Climate
+questionnaire assessment is due, therefore we are only reporting a single year of data.
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+Comment
+Splunk began tracking its GHG emissions in FY20 (Feb 1, 2019 to Jan 31, 2020) - we are in the process of collecting our FY21 data and will report after the CDP Climate
+questionnaire assessment is due, therefore we are only reporting a single year of data at the time of submission.
+
+C6.3
+
+ 
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+
+Scope 2, location-based
+3791
+
+Scope 2, market-based (if applicable)
+1784
+
+Start date
+February 1 2019
+
+End date
+January 31 2020
+
+Comment
+Scope 2 emissions calculated using location-based methodology of annual estimates. Includes Splunk’s offices and IT assets in Data Centers under its operational control.
+From a location-based perspective, offices account for an estimated 1,784MT and data centers account for and estimated 2,007MT. Scope 2 emissions (market-based
+methodology) used RECs and I-RECs from electricity consumption by third-party-operated data centers. From a market-based perspective, offices account for an estimated
+1,784MT.
+
+Past year 1
+Scope 2, location-based
+Scope 2, market-based (if applicable)
+Start date
+End date
+
+Comment
+Splunk began tracking its GHG emissions in FY20 (Feb 1, 2019 to Jan 31, 2020) - we are in the process of collecting our FY21 data and will report after the CDP Climate
+questionnaire assessment is due, therefore we are only reporting a single year of data at the time of submission.
+
+CDP Page 9 of 21

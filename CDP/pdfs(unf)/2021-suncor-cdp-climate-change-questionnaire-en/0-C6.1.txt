@@ -1,0 +1,69 @@
+2021
+
+C5.2a
+
+yt
+Suncor Energy Inc. CDP Climate Change Questionnaire 2021 Thursday, July 29, wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+(C5.2a) Provide details of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+
+For Quebec facilities: Regulation respecting mandatory reporting of certain emissions
+of contaminants into the atmosphere 2020;
+
+For British Columbia facilities: Final Essential Requirements for Mandatory Reporting —
+Amended for Canadian Harmonization, 2011; Western Climate Initiative (WCI) Final
+Essential Requirements of Mandatory Reporting: Amended for Canadian
+Harmonization, 2013;
+
+For Ontario facilities: Canadian's Greenhouse Gas Quantification Requirements
+(Greenhouse Gas Reporting Program), 2020;
+
+For Alberta facilities: Alberta Greenhouse Gas Quantification Methodologies
+(Technology Innovation and Emission Reduction Regulation) (Version 2.1);
+
+For Newfoundland facilities: Management of Greenhouse Gas Reporting Regulations
+under the Management of Greenhouse Gas Act, 2017;
+
+For other Canadian facilities: Canadian's Greenhouse Gas Quantification
+Requirements (Greenhouse Gas Reporting Program), 2020;
+
+For US facilities: US EPA Mandatory Greenhouse Gas Reporting Rule
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+
+19,564,862
+
+Start date
+
+January 1, 2020
+
+End date
+
+December 31, 2020
+
+Comment
+
+Scope 1 (Direct Emission) are emissions from sources that are owned and controlled by
+Suncor. In 2020, Suncor's gross global Scope 1 emissions are calculated as per
+Environment Canada Facility Greenhouse Gas Reporting Program guidance, including
+reporting boundary, emission category, calculation methodology and global warming
+potentials.
+
+Past year 1
+
+Gross global Scope 1 emissions (metric tons CO2e)
+
+51

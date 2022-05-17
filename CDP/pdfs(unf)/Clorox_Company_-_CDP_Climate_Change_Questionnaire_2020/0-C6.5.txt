@@ -1,0 +1,59 @@
+| _ yt
+The Clorox Company CDP Climate Change Questionnaire 2020 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+Trucost used its proprietary hybrid EEIO/LCA in conjunction with Clorox data on
+revenue by business activity to calculate absolute emissions from all of Clorox’s
+upstream transportation and distribution. Trucost also extracted the supply chain
+emissions for air, rail, water and truck transportation to calculate the cradle-to-gate
+
+emissions relating to transportation and distribution. Estimated to be 51,000 metric tons
+COQ2e.
+
+Waste generated in operations
+
+Evaluation status
+Not relevant, explanation provided
+
+Please explain
+Trucost used its proprietary hybrid EEIO/LCA in conjunction with Clorox data on
+revenue by business activity to calculate absolute emissions from all of Clorox’s waste
+generated in operations. This was found to be Not Relevant (Immaterial).
+
+Business travel
+
+Evaluation status
+Relevant, calculated
+
+Metrictonnes CO2e
+6,883
+
+Emissions calculation methodology
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard
+(Revised Edition). This includes emissions associated with domestic and international
+air travel miles as well as rental and fleet car miles for the reporting period. All
+calculations were performed by our contracted consultants at Liberty Environmental
+using current emission factors and converted to metric tons CO2e.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+95
+
+Please explain
+
+This includes emissions associated with domestic and international air travel miles as
+well as rental car and company car fleet miles for the reporting period. All calculations
+were performed using current emission factors and converted to metric tons CO2e Raw
+data for air travel is provided by American Express, our contracted travel management
+vendor. Rental car data is provided by Hertz, our contracted rental car vendor. Company
+car fleet mileage and gasoline usage data is maintained by the company’s internal travel
+management team. Externally reported data our suppliers, Hertz and American Express
+represent approximately 95% of the data. The rest comes from our internal fleet reports.
+
+Employee commuting
+
+Evaluation status
+Relevant, not yet calculated
+
+63

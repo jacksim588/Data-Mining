@@ -1,0 +1,59 @@
+uN
+Air Products & Chemicals, Inc. CDP Climate Change Questionnaire 2019 wy DP
+Wednesday, July 31, 2019 DISCLOSURE INSIGHT ACTION
+December 31, 2017
+
+Comment
+
+Air Products has restated greenhouse gas emissions to reflect acquisitions, divestitures
+and improved methodologies.
+
+Past year 2
+
+Gross global Scope 1 emissions (metric tons CO2e)
+15,300,000
+
+Start date
+January 1, 2016
+
+End date
+December 31, 2016
+
+Comment
+
+Air Products has restated greenhouse gas emissions to reflect acquisitions, divestitures
+and improved methodologies.
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+Row 1
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+
+We have operations where we are able to access electricity supplier emission factors or
+residual emissions factors, but are unable to report a Scope 2, market-based figure
+
+Comment
+
+Air Products has chosen not to report a market-based figure because it would disclose
+confidential business information. As reported in our 2019 Sustainability Report, the
+majority of the renewable electricity we purchase is used in France to make merchant
+industrial and medical gases. Reporting market-based Scope 2 emissions would provide
+insight into the energy consumed in France, which is considered confidential as it can
+be directly correlated to production.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Scope 2, location-based
+
+37

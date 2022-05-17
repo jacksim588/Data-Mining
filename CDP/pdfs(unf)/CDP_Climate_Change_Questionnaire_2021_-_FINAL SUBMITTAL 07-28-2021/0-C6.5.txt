@@ -1,0 +1,55 @@
+yN C
+CSX Corporation CDP Climate Change Questionnaire 2021 Wednesday, July 28, >» > b DP
+
+2021
+DISCLOSURE INSIGHT ACTION
+Comment
+2020 location-based and market-based Gross Scope 2 emissions were independently
+verified.
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+304,476
+
+Emissions calculation methodology
+CSX reviewed annual spend from purchased goods and services and eliminated
+purchased goods and services accounted for in other areas of the GHG Inventory.
+Emissions were estimated using the WRIMWBCSD GHG Protocol Scope 3 Evaluator
+Tool. The online tool is based on the Quantis Suite 2.0 software. The tool estimates
+emissions in terms of expenditures in a given economic sector, using environmental
+input-output datasets based on the World Input-Output Database (WIOD) and the Open
+10 Database. Since these supply chain emission estimates are rough approximations
+based on simplified approaches, they will not be included in CSX's GHG Inventory. CSX
+continues to work to understand emission sources in the supply chain.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Please explain
+Annual spend from purchased goods and services is obtained directly from CSX
+Procurement group. It is important to note that emissions from purchased goods and
+services are not included in CSX's GHG inventory because they are rough
+approximations based on simplified approaches.
+
+Capital goods
+
+Evaluation status
+
+47

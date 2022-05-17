@@ -1,0 +1,48 @@
+Weir Group CDP Climate Change Questionnaire 2019 Tuesday, October 1, 2019 Ww DP
+
+DISCLOSURE INSIGHT ACTION
+
+Comment
+
+Scope 2 (location-based)
+
+Base year start
+January 1, 2013
+
+Base year end
+December 31, 2013
+
+Base year emissions (metric tons CO2e)
+107,581
+
+Comment
+
+Scope 2 (market-based)
+
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+
+Comment
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate Scope 1 and Scope 2 emissions.
+Defra Voluntary 2017 Reporting Guidelines
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+38,586
+
+58

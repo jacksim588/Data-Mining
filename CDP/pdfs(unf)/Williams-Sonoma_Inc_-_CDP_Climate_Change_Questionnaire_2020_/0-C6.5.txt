@@ -1,0 +1,55 @@
+Williams-Sonoma Inc CDP Climate Change Questionnaire 2020 Wednesday, Ww DP
+
+August 26, 2020
+DISCLOSURE INSIGHT ACTION
+
+Metric tonnes CO2e
+3,251,037
+
+Emissions calculation methodology
+PG&S was split into Indirect (non-retail) and Direct (retail) procurement categories in the
+inventory.
+Indirect procurement approach: FY2019 indirect soend data was mapped to Carnegie
+Mellon EEIO factors to calculate associated emissions.
+Product footprint approach: FY2019 product SKU procurement data, including some
+textile and wood material data at the SKU level, were used with a hybrid material and
+product LCA approach to calculate emissions. Emissions Factors used: SAC Higg MSI,
+Ecoinvent, and 31 product LCA studies
+We organized the product hierarchy using Department and Class categorizations to
+group products — then broke the inventory into two approaches: Material LCA (higher
+priority) & Representative Product LCA (secondary priority)
+Material LCA approach: We compared the Fiber material and Wood material files to the
+full product inventory to identify which products we could apply a material LCA to (Only
+products which were primarily composed of the listed material(s) would quality for the
+material LCA method).
+Representative Product LCA approach: For all products without available material
+weight/volume information, we mapped LCA study factors to similar sets of products.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+42
+
+Please explain
+PG&S emissions are comprised of 89% product-based and 11% indirect-spend
+calculated emissions. WSI collects material data for all wood-based and textile products
+from suppliers and material LCAs were used to calculate our emissions using this
+supplier data, accounting for 42% of the total emissions in this category.
+
+Capital goods
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+33,629
+
+Emissions calculation methodology
+FY2019 capital spend figures were mapped to Carnegie Mellon EEIO factors.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Please explain
+
+26

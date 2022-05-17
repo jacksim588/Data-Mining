@@ -1,0 +1,53 @@
+| _ yt
+The Clorox Company CDP Climate Change Questionnaire 2020 wy DP
+
+DISCLOSURE INSIGHT ACTION
+
+Scope 2 (market-based)
+
+Base year start
+January 1, 2018
+
+Base year end
+December 31, 2018
+
+Base year emissions (metric tons CO2e)
+199,087
+
+Comment
+In 2019 we updated our baseline year from 2011 to 2018 and use the location-based
+method for our goal setting and progress reporting. We did this because we have had a
+significant number of acquisitions, divestitures since our prior baseline year in 2011.
+The 2018 baseline was assured in calendar year 2019.
+We continued efforts to collect Scope 2 emissions in the U.S. for 2018 using the market-
+based method as stipulated by the GHG Protocol; however, we were unable to obtain
+any contractual instruments or supplier specific emission rates, and residual mix factors
+were not available for the markets in which Clorox operates. The impact of our Fairfield,
+CA solar generation was immaterial to our overall consumption and retired RECS were
+not available and as a result, our 2018 market-based Scope 2 emissions are identical to
+our location-based emissions.
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+
+collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Re porting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+64,484
+
+Comment
+Scope 1 emissions include emissions from stationary and mobile combustion sources.
+
+60

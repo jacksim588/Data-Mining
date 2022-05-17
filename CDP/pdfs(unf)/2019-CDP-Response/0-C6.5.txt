@@ -1,0 +1,54 @@
+uN
+Spectrum Brands Inc. CDP Climate Change Questionnaire 2019 Wednesday, July > > be ( D p
+
+31, 2019
+
+DISCLOSURE INSIGHT ACTION
+
+Metric tonnes CO2e
+6,058.48
+
+Emissions calculation methodology
+Location -based emissions from electricity transmission and distribution (T&D) losses
+were calculated by multiplying electricity consumption (international facilities) or
+electricity emissions (US facilities) by the T&D loss rate in accordance with the GHG
+Protocol: A Corporate Accounting and Reporting Standard (Revised Edition) and the
+GHG Protocol Technical Guidance for Calculating Scope 3 Emissions (Version 1.0).
+Emission factors for the US are from US EPA, "Year 2016 Summary Tables", Table 1
+Subregion Output Emission Rates (eGRID2016), February 2018. GWPs from the IPCC
+Fifth Assessment Report (AR5 - 100 year) were applied. T&D loss rates for the US are
+from US Energy Information Administration (EIA), "State Electricity Profiles," Table 10.
+Supply and disposition of electricity, 1990-2017 (megawatthours), Data for 2017,
+February 26, 2019 (https://www.eia.gov/electricity/state/), and international T&D loss
+rates are from the International Energy Agency (IEA), “CO2 Emissions from Fuel
+Combustion,” 2018 Edition, Year 2016 Data.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Explanation
+
+Upstream transportation and distribution
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+
+Waste generated in operations
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+9,800.79
+
+Emissions calculation methodology
+Solid waste emissions (hazardous and non-hazardous waste to landfill, recycling) were
+calculated by multiplying the mass of waste by the appropriate emission factor (EF)
+based on the waste treatment method and waste type. Hazardous waste was assumed
+to be general hazardous waste sent to landfill, non-hazardous waste to landfill was
+assumed to be mixed municipal solid waste (MSW), and potential waste material
+
+39

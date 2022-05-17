@@ -1,0 +1,58 @@
+commer WW C
+ASELSAN ELEKTRONIK SANAYi VE TICARET A.S. CDP Climate Change >» > b DP
+
+Questionnaire 2019 Tuesday, July 23, 2019
+
+DISCLOSURE INSIGHT ACTION
+
+account for the emissions associated with this source. ASELSAN does not predict the
+full inclusion over a five years period.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Not relevant, explanation provided
+
+Explanation
+In the next two years we are planning to obtain data by: Reference to the scope 1 GHG
+inventory, including sources and types of fuels consumed and collect data from the fuel
+procurement department. If necessary, collect data from fuel suppliers; and/or reference
+to life cycle databases and/or GHG Protocol website.
+
+Upstream transportation and distribution
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+13.09
+
+Emissions calculation methodology
+DEFRA: Freighting goods-2018
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+
+Explanation
+This data is provided from our main chemical material suppliers who transport chemicals
+inside our Macunk6y Facility by using roadway. The great majority of this
+transportation's GHG gases comprise CO2 from exhaust emissions (fuel usage). We
+are planning to have a clear climate change related procurement policy to measure and
+reduce CO2 emissions generated from upstream transportation of chemicals The
+verification of this category is fulfilled by the 3rd party audit for 2018 activities.
+
+Waste generated in operations
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+226.88
+
+Emissions calculation methodology
+The assessment and the data gathering process is in place. Waste generated in
+operations is calculated based on Defra 2018 methodology on waste disposal. Waste
+water generated from operations is calculated based on Defra 2018 methodology on
+water treatment
+
+56

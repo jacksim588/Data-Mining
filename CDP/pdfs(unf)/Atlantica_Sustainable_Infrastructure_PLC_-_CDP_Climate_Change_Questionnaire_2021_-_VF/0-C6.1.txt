@@ -1,0 +1,60 @@
+qN
+Atlantica Sustainable Infrastructure PLC CDP Climate Change Questionnaire 2021 wy DP
+
+Wednesday, July 28, 2021
+
+DISCLOSURE INSIGHT ACTION
+
+requirements of the Commission Regulation (EU) No 601/2012. Emissions figures on
+this report are quantified and reported according to the guidelines of the ISO 14064. Our
+Scope 2 emissions are indirect emissions of greenhouse gas from consumption of
+purchased electricity, heat or steam.
+
+Scope 2 (market-based)
+
+Base year start
+January 1, 2020
+
+Base year end
+December 31, 2020
+
+Base year emissions (metric tons CO2e)
+199,127
+
+Comment
+As a United Kingdom company, Atlantica is subject to, and is in compliance with the
+requirements of the Climate Change Act 2008 on greenhouse gas emissions reporting.
+Additionally, our greenhouse gas emissions management complies with the
+requirements of the Commission Regulation (EU) No 601/2012. Emissions figures on
+this report are quantified and reported according to the guidelines of the ISO 14064. Our
+Scope 2 emissions are indirect emissions of greenhouse gas from consumption of
+purchased electricity, heat or steam.
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+
+European Union Emission Trading System (EU ETS): The Monitoring and Reporting Regulation
+(MMR) — General guidance for installations
+
+ISO 14064-1
+
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+1,736,866
+
+Comment
+
+61

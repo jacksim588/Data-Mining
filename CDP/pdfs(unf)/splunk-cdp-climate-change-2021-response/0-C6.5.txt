@@ -1,0 +1,87 @@
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+
+boundary which are not included in your disclosure?
+No
+
+C6.5
+
+ 
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+Purchased goods and services
+
+Evaluation status
+Not evaluated
+
+Metric tonnes CO2e
+<Not Applicable>
+
+Emissions calculation methodology
+<Not Applicable>
+
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+
+Please explain
+
+At the time of submission, this category is deemed as not relevant, however future evaluations are considered for this category within the next two years.
+
+Capital goods
+
+Evaluation status
+Not evaluated
+
+Metric tonnes CO2e
+<Not Applicable>
+
+Emissions calculation methodology
+<Not Applicable>
+
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+
+Please explain
+
+At the time of submission, this category is deemed as not relevant due to the nature of Splunk's business (software/IT services).
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Not relevant, explanation provided
+
+Metric tonnes CO2e
+<Not Applicable>
+
+Emissions calculation methodology
+<Not Applicable>
+
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+
+Please explain
+
+At the time of submission, this category is deemed as not relevant due to the nature of Splunk's business (software/IT services).
+
+Upstream transportation and distribution
+
+Evaluation status
+Not relevant, explanation provided
+
+Metric tonnes CO2e
+<Not Applicable>
+
+Emissions calculation methodology
+<Not Applicable>
+
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+
+Please explain
+
+At the time of submission, this category is deemed as not relevant due to the nature of Splunk's business (software/IT services).
+
+CDP
+
+Page 10 of 21

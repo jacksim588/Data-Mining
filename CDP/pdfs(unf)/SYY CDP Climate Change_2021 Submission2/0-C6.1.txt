@@ -1,0 +1,34 @@
+yN CDP
+Sysco Corporation CDP Climate Change Questionnaire 2021 Wednesday, July 28, 2021 >» > b D Pp
+
+DISCLOSURE INSIGHT ACTION
+
+Base year emissions (metric tons CO2e)
+348,011
+
+Comment
+Baseline emissions do not include Brakes.
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition)
+
+C6. Emissions data
+
+C6.1
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+918,026
+
+Comment
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+Row 1
+
+44

@@ -1,0 +1,55 @@
+DANFOSS CDP Climate Change Questionnaire 2020 Tuesday, August 25, 2020
+
+Explain why this source is excluded
+The energy consumption is in most cases an integral part of the rent and therefore not
+accounted for. We cannot estimate the emissions since we do not have access to utility
+data.
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+980,000
+
+Emissions calculation methodology
+Emissions are estimated by Trucost.
+Scope of the valuation: Present value of each metric tons of CO2e emitted now, taking
+account of the full global cost of the damage that it imposes during its time in the
+atmosphere. The social cost of carbon includes, but is not limited to, changes in net
+agricultural productivity, human health, and property damages from increased flood risk.
+Methodology approach: Trucost uses a social cost per metric tons of CO2e to value
+GHG emissions, which is the value identified in the UK Government’s Stern Report
+(Stern, 2006) as the central, business-as-usual scenario, adjusted for inflation to 2014
+prices using a global weighted average consumer price index (CPI).
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Please explain
+The calculations are based on financial data from Danfoss' procurement databases.
+
+Capital goods
+
+Evaluation status
+Not relevant, explanation provided
+
+Please explain
+The energy used to drive the capital goods generate emissions. These emissions are
+included in the scope 1 and scope 2 emissions reported for the company.
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Not relevant, explanation provided
+
+25
+
+Classified as Business

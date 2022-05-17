@@ -1,0 +1,49 @@
+Corning Incorporated CDP Climate Change Questionnaire 2021 Wednesday, July Ww DP
+
+28, 2021
+DISCLOSURE INSIGHT ACTION
+
+C5.2
+
+(C5.2) Select the name of the standard, protocol, or methodology you have used to
+collect activity data and calculate emissions.
+The Climate Registry: General Reporting Protocol
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised
+Edition)
+US EPA Emissions & Generation Resource Integrated Database (eGRID)
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons
+CO2e?
+
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+678,029
+
+Comment
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+Scope 2, location-based
+We are reporting a Scope 2, location-based figure
+
+Scope 2, market-based
+We have operations where we are able to access electricity supplier emission factors or
+residual emissions factors, but are unable to report a Scope 2, market-based figure
+
+Comment
+Corning is working on evaluating our Scope 2 emissions using the market-based
+approach for future years.
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons
+CO2e?
+
+Reporting year

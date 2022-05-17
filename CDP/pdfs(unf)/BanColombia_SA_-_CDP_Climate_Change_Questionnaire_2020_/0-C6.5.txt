@@ -1,0 +1,55 @@
+yN C
+BanColombia SA CDP Climate Change Questionnaire 2020 Wednesday, June >» > b DP
+
+10, 2020
+
+DISCLOSURE INSIGHT ACTION
+
+Start date
+January 1, 2016
+
+End date
+December 31, 2016
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+939
+
+Emissions calculation methodology
+Scope 3 GHG emissions for Purchased Goods And Services in Bancolombia are
+currently associated with paper usage, the emissions factor used to estimate emissions
+is 0.85 KgeqCo2/Kg of paper, obtained from Ecoinvent 2.2 - graphic paper, paper, wood
+free, uncoated at integrated mill
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+100
+
+Please explain
+As a financial institution paper usage is a material issue included in the Bancolombia
+Eco efficiency program. We have established a corporate emissions reduction target for
+the 2020 for each of the countries where we have operational control. The target is to
+reduce our 2010 Scope 3 emissions by 35% associated with paper consumption in our
+Colombia Operations, 6% in our Panama Operations, 10% in our El Salvador
+Operations and 4% in our Guatemala operations.
+
+69

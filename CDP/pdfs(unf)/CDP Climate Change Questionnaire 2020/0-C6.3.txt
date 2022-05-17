@@ -1,0 +1,38 @@
+uN
+Core Laboratories N.V. CDP Climate Change Questionnaire 2020 Wednesday, August 26, 2020 wy ( D p
+
+DISCLOSURE INSIGHT ACTION
+
+C6.3
+
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+
+Reporting year
+
+Scope 2, location-based
+10,381
+
+Start date
+January 1, 2019
+
+End date
+December 31, 2019
+
+Comment
+The majority of operational GHG emissions stem from electricity consumption (Scope 2 emissions), contributing 68% to the operational GHG
+emissions. In FY2018, the total electricity sourced from renewable sources was approximately 9% whereas in FY2019 it has increased to 15%.
+For FY2019, the market-based Scope 2 emissions are 11,904 tCO2e, which were reduced by 6% from FY2018. The total energy consumption
+in FY2019 across all sites, which is 43,695 MWH, has decreased approximately by 2% from the FY2018 consumption of 45,807 MWh. The
+energy use across scope 1 and 2 is dominated by non-renewable electricity use, which contributes to 60% of the total FY2019 energy
+consumption. The renewable electricity represents 9% of the total energy use in FY2019. A breakdown of emissions per division provides more
+insights of the emission sources across Core Lab’s operations. Though there are more mid-level ATCs than ATCs they are only associated with
+23% of the total operational emissions. Manufacturing sites had only 20% of total operational emissions, with no fugitive emissions from
+refrigerant use at both sites and low natural gas and vehicle fuel consumption values.
+Looking forward to 2020 and the current crude oil market downturn in activity along with business disruptions from the COVID-19 pandemic, we
+expect Scope 2 emissions to be lower and in line with our SBT's.
+
+Past year 1
+
+Scope 2, location-based
+
+58

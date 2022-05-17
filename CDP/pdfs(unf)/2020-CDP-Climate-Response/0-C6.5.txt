@@ -1,0 +1,56 @@
+uN
+Owens Coming CDP Climate Change Questionnaire 2020 Wednesday, August > > be ( D p
+
+26, 2020
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+1,943,019
+
+Emissions calculation methodology
+The climate change category of Purchased Goods and Services (PG and S) is
+interpreted as the cradle-to-supplier-gate GWP impact of the representative raw material
+inputs used to manufacture Owens Corning products. The data used to model these
+impacts are from Owens Corning’s manufacturer-specific product LCA studies that have
+been conducted. The scopes of the product LCAs are either cradle-to-grave or cradle-
+to-gate; however, since the objective of this calculation only focuses on the activities
+upstream of manufacturing, discernment between whether a given LCA is cradle-to-gate
+or cradle-to-gate is not necessary. In each of these studies, GWP impact factors are
+developed using the impact assessment results for the upstream life-cycle stages that
+represent the input raw materials. The GWP impact data from the LCA studies are
+combined and multiplied by the 2019 annual production volume of the appropriate
+product manufactured by each of Owens Corning's three major businesses of insulation,
+composites and roofing and asphalt.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+
+Please explain
+
+Capital goods
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+150,012
+
+Emissions calculation methodology
+Determination of Scope 3 emissions associated with capital goods was performed using
+an EIO-LCA based method and was calculated using the EIO-LCA on-line tool
+developed by Carnegie Mellon University. Primary data was collected internally on
+2019 total spend for capital expenditure. This was in the form of multiple SAP datasets
+since Owens Corning's facilities use different versions of SAP. Each spend SAP
+
+58

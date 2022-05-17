@@ -1,0 +1,57 @@
+qN
+Atlantica Sustainable Infrastructure PLC CDP Climate Change Questionnaire 2021 wy DP
+
+Wednesday, July 28, 2021
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+52,856
+
+Emissions calculation methodology
+Purchased goods and services emissions have been calculated using an economic
+input / output analysis using 2020 economic data and relevant emission factors obtained
+from the CEDA's 5 database. CEDA stands for “Comprehensive Environmental Data
+Archive”, a set of databases designed to assist on environmental system analysis
+throughout the supply chain. Purchased goods and services represents approximately
+6% of our Scope 3 total GHG emissions.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Please explain
+Purchased goods and services emissions have been calculated using an economic
+input / output analysis using 2020 economic data and relevant emission factors obtained
+from the CEDA's 5 database. No data has been obtained from suppliers or value chain
+partners.
+
+Capital goods
+
+Evaluation status
+Not relevant, calculated
+
+Metric tonnes CO2e
+1,989.5
+
+Emissions calculation methodology
+Capital goods represents a 0.2% of Scope 3 total emissions. We have calculated Scope
+3 using an economic input / output analysis of the reporting period. We have identified
+six Scope 3 categories that are not relevant (each represents less than 1% of total 2020
+Scope 3 emissions). These are:
+Category 2: Capital Goods
+Category 4: Upstream transportation and distribution
+Category 5: Waste Generated in Operations
+Category 6: Business Travel
+
+63

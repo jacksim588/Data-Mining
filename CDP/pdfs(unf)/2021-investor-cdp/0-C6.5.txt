@@ -1,0 +1,38 @@
+WN
+CEMEX CDP Climate Change Questionnaire 2021 Monday, July 26, 2021 wad DP
+
+DISCLOSURE INSIGHT ACTION
+
+Source
+Logistics Operations
+
+Relevance of Scope 1 emissions from this source
+No emissions excluded
+
+Relevance of location-based Scope 2 emissions from this source
+Emissions are not relevant
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+Emissions are not relevant
+
+Explain why this source is excluded
+Emissions from logistics are included in scope 3 due to 1. their relatively small amount (compared to kiln operations) and 2. methodological
+
+issues (separating own fleet from third party transportation would be extremely data-intensive). This is in line with WBCSD-CSI guidance on
+scope 3 emissions in the cement sector.
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+5,052,651
+
+Emissions calculation methodology
+
+78

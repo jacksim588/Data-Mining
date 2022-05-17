@@ -1,0 +1,32 @@
+MTR Corporation Limited CDP Climate Change Questionnaire 2020 Thursday, December 10, 2020 wy ( DP
+
+DISCLOSURE INSIGHT ACTION
+
+specifies emission factors that are applicable in Hong Kong region where the Corporation mainly sits and indicates the detailed methodology in
+calculating emissions (scope 1 and 2). Please refer to hyperlink:
+
+https://www.epd.gov.hk/epd/sites/default/files/epd/english/climate_change/files/Guidelines_English_2010.pdf
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+46,134
+
+Comment
+Scope 1 emissions in 2019: 46,134 ton CO2e
+
+C6.2
+
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+
+Scope 2, location-based
+
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+
+68

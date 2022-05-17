@@ -1,0 +1,55 @@
+qN C
+Fortum Oyj CDP Climate Change Questionnaire 2021 27 July 2021 >» > b DP
+
+DISCLOSURE INSIGHT ACTION
+
+Uniper's total figures in 2020, except direct CO2 emissions and energy production
+volumes are consolidated as of 31 March 2020.
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+688,300
+
+Emissions calculation methodology
+As the majority owner of Uniper, Fortum has consolidated Uniper as a subsidiary as of
+31 March 2020. Sustainability indicators have been mainly consolidated as 75% of
+Uniper's total figures in 2020, except direct CO2 emissions and energy production
+volumes are consolidated as of 31 March 2020.
+(i) The volumes and categories of purchased goods and services are based on Fortum's
+procurement databases. Fortum, excluding Uniper, has assessed its Scope 3 emissions
+based on GHG Protocol's Corporate Value Chain Accounting and Reporting Standard,
+and emission data from EXIOBASE2 has been used in the calculation of emissions.
+Uniper's purchased goods and services were classified according to DEFRA Product
+Categories and multiplied by the corresponding emission factor (2017). The GWP
+values are from IPCC Fifth Assessment Report, 2014 (AR5), 100-year time horizon.
+(ii) Fortum has assessed data quality based on criteria in Scope 3 standard on page 77
+taking into account representativeness to the activity in terms of technology, time,
+geography, completeness and reliability. Based on this Fortum has scored the quality of
+primary and secondary data as very good/good/fair/poor. The data on spending of
+purchases is relatively accurate (score: good). The biggest source of uncertainty in the
+reported emissions is the emission factors (score: fair) for spending on different groups
+of goods and services.
+(iii) AS a part of the assessment, Fortum has estimated its GHG emissions from
+purchased goods and services based on spend data from internal purchasing data
+management systems. Fortum's purchased goods and services (other than capital
+goods and energy and fuel related activities) consist mostly of maintenance and
+construction and other business activities.
+
+56

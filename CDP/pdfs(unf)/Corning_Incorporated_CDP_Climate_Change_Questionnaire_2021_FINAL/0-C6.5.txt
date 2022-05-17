@@ -1,0 +1,51 @@
+Corning Incorporated CDP Climate Change Questionnaire 2021 Wednesday, July Ww DP
+
+28, 2021
+DISCLOSURE INSIGHT ACTION
+
+Explain why this source is excluded
+Emissions from select contract manufacturers are excluded because they have not been
+evaluated. Corning is currently assessing contract manufacturers to determine the level
+of inclusion for each and plans to include relevant emissions in future CDP responses
+once the assessment is complete.
+
+Source
+Sales offices and small administrative offices
+
+Relevance of Scope 1 emissions from this source
+Emissions are not relevant
+
+Relevance of location-based Scope 2 emissions from this source
+Emissions are not relevant
+
+Relevance of market-based Scope 2 emissions from this source (if applicable)
+
+Explain why this source is excluded
+Sales offices and small administrative offices are excluded where energy use is minimal
+and they are not currently required to provide emissions or energy information to
+Corning's EHS Management Information System. Office spaces are predominantly
+leased with energy provided through the lease and managed by a landlord.
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+1,967,961
+
+Emissions calculation methodology
+Using Greenhouse Gas Protocol Technical Guidance for Calculating Scope 3
+Emissions, we estimated purchased goods and services using the spend-based
+method.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+33

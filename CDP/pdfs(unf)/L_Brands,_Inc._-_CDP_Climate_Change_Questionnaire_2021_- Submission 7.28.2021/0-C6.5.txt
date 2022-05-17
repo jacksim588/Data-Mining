@@ -1,0 +1,51 @@
+1N
+L Brands, Inc. CDP Climate Change Questionnaire 2021 Wednesday, July 28, wy ( D p
+
+2021
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, not yet calculated
+
+Please explain
+
+Capital goods
+
+Evaluation status
+Relevant, not yet calculated
+
+Please explain
+
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+
+Evaluation status
+Relevant, not yet calculated
+
+Please explain
+
+Upstream transportation and distribution
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+273,300
+
+Emissions calculation methodology
+WRI/WBCSD GHG Protocol is used to calculate upstream transportation and
+distribution emissions.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+
+Please explain
+
+Waste generated in operations

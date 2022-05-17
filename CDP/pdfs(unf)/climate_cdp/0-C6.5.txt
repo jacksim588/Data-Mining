@@ -1,0 +1,56 @@
+WN
+Continental AG CDP Climate Change Questionnaire 2021 Wednesday, July 28, wy DP
+
+2021
+
+DISCLOSURE INSIGHT ACTION
+
+January 1, 2018
+
+End date
+December 31, 2018
+
+Comment
+
+Past year 3
+
+Scope 2, location-based
+2,347,381
+
+Scope 2, market-based (if applicable)
+
+Start date
+January 1, 2017
+
+End date
+December 31, 2017
+
+Comment
+
+C6.4
+
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies,
+etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+
+No
+
+C6.5
+
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing
+and explaining any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+14,650,000
+
+Emissions calculation methodology
+Calculation has been performed in line with the Corporate Value Chain (Scope 3)
+Accounting and Reporting Standard of GHG Protocol. Purchased goods and services
+have been based on the vast variety of components and materials used in our products
+
+45

@@ -1,0 +1,56 @@
+qN C
+AngloGold Ashanti CDP Climate Change Questionnaire 2019 Monday, September >» > b DP
+
+30, 2019
+
+DISCLOSURE INSIGHT ACTION
+
+C6.5
+
+(C6.5) Account for your organization’s Scope 3 emissions, disclosing and explaining
+any exclusions.
+
+Purchased goods and services
+
+Evaluation status
+Relevant, calculated
+
+Metric tonnes CO2e
+108,926
+
+Emissions calculation methodology
+In early 2019, a 2014 study undertaken to assess the pass-through carbon tax
+implications in the South African Region was updated. The average data method was
+used, whereby secondary emission factors for the manufacture of key carbon-intensive
+process chemicals were used to determine the indirect carbon taxes likely to flow
+through by virtue purchasing these commodities. Carbon costs in unit of local currency
+(ZAR per tonne of CO2-e) were determined for each of the commodity, based on the
+actual 2018 expenditure on these products. Thereafter the product of these carbon
+costs and the annual value spent on each, provides a good estimate of the total indirect
+carbon emissions from the purchase of these key commodities.
+
+Percentage of emissions calculated using data obtained from suppliers or
+value chain partners
+0
+
+Explanation
+The 2018 assessment included the following key commodities: Ammonia, Lime, Caustic
+Soda, Activated Carbon, Explosives, Sodium Cyanide, steel grinding media and
+Services. The figures reported here are for goods and services procured in South Africa
+only, which remains a material proportion of the AGA spend on similar goods and
+services. We used industry averages and worked from our extensive knowledge of our
+suppliers’ activities. Given the high carbon footprint of the South African electrical grid
+(owing to coal-fired power stations), the data cannot be used to calculate equivalent
+carbon emissions in our other countries of operations, particularly in those countries with
+a high level of hydropower in the national energy mix, such as Brazil.
+
+Capital goods
+
+Evaluation status
+Relevant, not yet calculated
+
+Explanation
+As the company's Scope 1 and 2 emissions are high (2.57 Mt in 2018), given our 2007
+and 2008 carbon footprint exercise, it is expected that the relative scope 3 emissions
+
+25

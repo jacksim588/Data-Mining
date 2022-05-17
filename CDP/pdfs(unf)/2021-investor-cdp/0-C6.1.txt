@@ -1,0 +1,33 @@
+WN
+CEMEX CDP Climate Change Questionnaire 2021 Monday, July 26, 2021 wad DP
+
+DISCLOSURE INSIGHT ACTION
+
+C5.2a
+
+(C5.2a) Provide details of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.
+
+For ready-mix & aggregates operations, data for scope 1 and 2 have been extrapolated from data collected with the CEMEX CO2 footprint
+methodology from 2013 taking the production volume from 2019; this methodology assesses the total GHG footprint on a cradle-to-gate basis and is in
+compliance with most currently available standards for carbon footprints (PAS 2050, ISO 14040).
+
+C6. Emissions data
+
+C6.1
+
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+
+Gross global Scope 1 emissions (metric tons CO2e)
+37,489,660.1
+
+Comment
+
+C6.2
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+Scope 2, location-based
+
+We are reporting a Scope 2, location-based figure
+
+15
